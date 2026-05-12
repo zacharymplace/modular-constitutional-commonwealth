@@ -795,27 +795,43 @@ Moderate. Real technology accountability is demanding, but essential to prevent 
 
 ## Problem Addressed
 
-TBD
+v0.1 allowed distributed ledgers as verification infrastructure but needed stronger safeguards against privacy leakage, vendor capture, validator capture, immutable error, blockchain voting creep, and smart-contract sovereignty.
 
 ## Strengths
 
-TBD
+- v0.2 clearly states that ledgers may verify records but may not govern the public.
+- Legal Truth Supremacy prevents ledger records from becoming final legal reality.
+- Validator governance prevents one actor from controlling verification infrastructure.
+- DLT Necessity and Sunset prevent blockchain-for-blockchain’s-sake.
+- Oracle Accountability addresses the key weakness: the chain cannot know whether real-world inputs are true.
 
 ## Residual Vulnerabilities
 
-TBD
+- Validator composition remains open.
+- Metadata privacy is hard to enforce in practice.
+- DLT necessity review could become a rubber stamp.
+- Smart contracts may creep from narrow commitments into public-law execution.
+- Public users may still misunderstand ledger verification as legal finality.
 
 ## Abuse Scenarios
 
-TBD
+- A vendor captures the protocol and becomes the effective gatekeeper of public records.
+- Sensitive metadata reveals benefit status, legal vulnerability, health status, or political participation.
+- Officials claim “the ledger says so” to avoid lawful correction.
+- Blockchain voting advocates use the Election Audit Ledger as a stepping stone to unsafe online voting.
+- Smart contracts auto-release public funds after false human certification.
 
 ## Complexity Cost
 
-TBD
+Moderate to high. Ledger infrastructure adds technical and governance complexity, so it must be justified case by case.
 
 ## v0.3 Recommendations
 
-TBD
+- Add default validator composition principles.
+- Require independent metadata privacy audits before deployment.
+- Require public DLT Necessity findings with appeal or review.
+- Require smart-contract pause, override, and court-compliance design.
+- Require public education that the ledger proves record history, not legal truth.
 
 ---
 
@@ -823,27 +839,41 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 established resilience and future generations but risked resilience bodies becoming procedural bottlenecks or future-generation rhetoric being used against present rights.
 
 ## Strengths
 
-TBD
+- v0.2 defines Major Law.
+- It requires elected institutions to publicly respond to major Resilience findings.
+- It clarifies that Resilience findings are not ordinary policy commands unless a constitutional violation, emergency authority, or statutory trigger exists.
+- Present Rights Priority is a strong safeguard.
+- The Resilience System is still barred from becoming permanent emergency government.
 
 ## Residual Vulnerabilities
 
-TBD
+- Major Law criteria may still be broad enough to capture too much legislation.
+- Resilience findings could become politically performative if elected institutions only issue shallow responses.
+- Forecasting institutions may develop strong agenda-setting power.
+- Present Rights Priority needs integration with fiscal and emergency articles.
 
 ## Abuse Scenarios
 
-TBD
+- Resilience review is used to delay politically disfavored laws.
+- Officials cite future generations to block current rights, housing, health, disability, or poverty-relief obligations.
+- Resilience agencies exaggerate systemic risk to expand influence.
+- Legislatures ignore serious risk findings with boilerplate responses.
 
 ## Complexity Cost
 
-TBD
+Moderate. Long-term review is valuable, but it must not turn every policy into a major procedural event.
 
 ## v0.3 Recommendations
 
-TBD
+- Add thresholds or categories for Major Law review intensity.
+- Require substantive public response to high-severity Resilience findings.
+- Require forecast accuracy review over time.
+- Cross-reference Present Rights Priority in Fiscal and Emergency articles.
+- Add “advisory unless legally triggered” language to avoid shadow policymaking.
 
 ---
 
@@ -851,27 +881,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 had strong emergency principles but lacked detail on comparable threats, renewal, classified action oversight, and evidence requirements.
 
 ## Strengths
 
-TBD
+- v0.2 adds severity, necessity, proportionality, and reviewability standards.
+- Renewal requires public necessity statement, rights review, fiscal review, evidence of continued emergency, and normalcy restoration progress.
+- Classified actions require classified legislative and judicial oversight.
+- Non-suspendable principles remain strong.
+- Emergency action is still tied to legal basis, duration, scope, and accountable executive.
 
 ## Residual Vulnerabilities
 
-TBD
+- Exact emergency durations remain open.
+- “Comparable threats” still needs careful interpretation.
+- Classified oversight bodies may be captured or too deferential.
+- Emergency renewal could become routine if political incentives align.
+- Public evidence may be limited in national security cases.
 
 ## Abuse Scenarios
 
-TBD
+- Government invokes cyber or systemic-risk emergency to restrict opposition activity.
+- Legislature repeatedly renews emergency authority with weak evidence.
+- Classified emergency orders hide surveillance expansion.
+- Emergency powers are renewed because normalcy restoration was never seriously attempted.
+- Emergency procurement becomes corruption channel.
 
 ## Complexity Cost
 
-TBD
+Low to moderate. Emergency safeguards add process, but crisis powers require process.
 
 ## v0.3 Recommendations
 
-TBD
+- Add default initial duration and escalating renewal thresholds.
+- Require emergency renewal votes to be separately recorded and publicly justified.
+- Add classified oversight composition and reporting standards.
+- Require independent post-emergency audit.
+- Add explicit link to Emergency Spending Ledger and Security Neutrality.
 
 ---
 
@@ -879,27 +925,44 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 had strong fiscal architecture but needed assumption transparency, tax expenditure sunset, local fiscal distress, and protection against hidden obligations.
 
 ## Strengths
 
-TBD
+- v0.2 adds Assumption Transparency.
+- It adds Tax Expenditure Sunset.
+- It adds Local Fiscal Distress.
+- It retains cost of action and inaction.
+- It preserves Economic Substance and Stewardship Funding protections.
+- It clearly frames fiscal governance as truth machinery, not austerity machinery.
 
 ## Residual Vulnerabilities
 
-TBD
+- Fiscal scores could still be politicized through model selection.
+- Tax expenditure review could become symbolic.
+- Local fiscal distress findings could stigmatize communities.
+- Stewardship funding disputes need a forum.
+- Fiscal truth can still be ignored politically.
 
 ## Abuse Scenarios
 
-TBD
+- Government uses optimistic assumptions to hide deficits.
+- Tax breaks survive through repeated temporary renewals.
+- Local governments hide distress until crisis.
+- Stewardship bodies are starved through technical budget adjustments.
+- Officials cite fiscal risk selectively against programs they oppose.
 
 ## Complexity Cost
 
-TBD
+Moderate. The fiscal system is document-heavy, but the burden matches the scale of fiscal evasion risk.
 
 ## v0.3 Recommendations
 
-TBD
+- Add independent model review for fiscal scoring.
+- Require tax expenditure renewal to include performance evidence.
+- Create a non-punitive Local Fiscal Distress support process.
+- Define forum for Constitutional Function Funding disputes.
+- Require public fiscal score comparisons against actual outcomes.
 
 ---
 
@@ -907,27 +970,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 introduced public service integrity and Public Trust License but needed due process, beneficial ownership, affiliated-entity disclosure, and broader revolving-door coverage.
 
 ## Strengths
 
-TBD
+- v0.2 adds beneficial ownership and affiliated entities.
+- It adds licensing due process.
+- It extends revolving-door restrictions beyond formal lobbying into access brokerage, paid strategic advising, vendor employment, regulated-sector employment, and shadow lobbying.
+- It preserves ideological neutrality.
+- Public office as fiduciary trust remains a strong principle.
 
 ## Residual Vulnerabilities
 
-TBD
+- Public Trust License can still become gatekeeping if criteria are vague.
+- Disclosure burdens could deter ordinary candidates.
+- Revolving-door restrictions must be enforceable without banning ordinary work.
+- Beneficial ownership rules can be evaded through complex entities.
+- Term and rotation rules remain broad.
 
 ## Abuse Scenarios
 
-TBD
+- Incumbents design licensing tests that favor insiders.
+- Wealthy candidates comply easily while ordinary candidates struggle.
+- Former officials become “consultants” who sell access without registering as lobbyists.
+- Family members or shell entities hold conflicted assets.
+- Enforcement bodies selectively review opposition candidates.
 
 ## Complexity Cost
 
-TBD
+Moderate. Anti-capture rules require disclosure and compliance systems; they must be designed to avoid elite-only politics.
 
 ## v0.3 Recommendations
 
-TBD
+- Define Public Trust License criteria narrowly and objectively.
+- Provide candidate compliance assistance.
+- Add proportional cure periods for disclosure defects.
+- Add anti-evasion rules for indirect financial interests.
+- Define post-service restrictions by risk tier and role.
 
 ---
 
@@ -935,27 +1014,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 protected speech and allowed transparency but needed clearer boundaries against censorship and better definitions of manipulation.
 
 ## Strengths
 
-TBD
+- v0.2 protects satire, parody, dissent, and peaceful constitutional reform.
+- It defines covered manipulation around funding opacity, synthetic deception, foreign control, coordinated inauthentic behavior, material non-disclosure, and fraudulent impersonation.
+- Disclosure is the default remedy.
+- Suppression is limited to narrow unlawful categories.
+- Viewpoint neutrality is explicit.
 
 ## Residual Vulnerabilities
 
-TBD
+- “Coordinated inauthentic behavior” can be difficult to define.
+- Disclosure regimes can still chill anonymous or vulnerable speakers.
+- Platform amplification transparency may involve proprietary systems and speech sensitivities.
+- Foreign-linked communication rules may affect diaspora communities.
+- Enforcement body and appeal path remain unspecified.
 
 ## Abuse Scenarios
 
-TBD
+- Government labels opposition organizing as coordinated manipulation.
+- Platforms over-remove lawful speech to avoid liability.
+- Foreign-linked disclosure is applied selectively against minority communities.
+- Synthetic media labels are used against satire.
+- Political actors weaponize misinformation claims to suppress criticism.
 
 ## Complexity Cost
 
-TBD
+Moderate. The system must expose manipulation without becoming a truth ministry.
 
 ## v0.3 Recommendations
 
-TBD
+- Add independent review and appeal for major information-integrity enforcement.
+- Protect anonymous political speech unless funding, foreign control, fraud, or legal violation requires disclosure.
+- Define coordinated inauthentic behavior carefully.
+- Require viewpoint-neutral enforcement statistics.
+- Add specific satire/parody safe harbor.
 
 ---
 
@@ -963,27 +1058,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 subordinated security forces to civilian control but needed lawful-command distinction, surveillance safeguards, whistleblower channels, and classified-handling rules.
 
 ## Strengths
 
-TBD
+- v0.2 distinguishes lawful constitutional civilian authority from personal, partisan, unlawful, or anti-constitutional orders.
+- Surveillance now requires legal authority, court supervision where required, minimization, audit, and remedy.
+- Security whistleblower channels are included.
+- Nonpartisanship remains strong.
+- Security forces are barred from serving parties, interfering in elections, intimidating opposition, suppressing lawful protest, or exceeding emergency scope.
 
 ## Residual Vulnerabilities
 
-TBD
+- Domestic deployment thresholds remain open.
+- Intelligence oversight composition and powers need more detail.
+- Whistleblower protections in classified contexts are difficult.
+- Local policing accountability requires more specific state/local architecture.
+- Security agencies may resist transparency on operational grounds.
 
 ## Abuse Scenarios
 
-TBD
+- Executive gives facially legal but partisan security orders.
+- Intelligence agencies hide surveillance abuse behind classification.
+- Protest policing is justified as emergency stabilization.
+- Security whistleblowers are punished for disclosure-route mistakes.
+- Election-period security deployments intimidate voters.
 
 ## Complexity Cost
 
-TBD
+Moderate. Security neutrality requires layered oversight and careful classified procedures.
 
 ## v0.3 Recommendations
 
-TBD
+- Add election-period security neutrality protocol.
+- Define domestic deployment thresholds and reporting requirements.
+- Add classified whistleblower process with protected recipients.
+- Require periodic surveillance transparency reports.
+- Cross-reference Emergency Powers and Rights articles for security deployments.
 
 ---
 
@@ -991,27 +1102,44 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 established tiered amendment rules but needed definitions for major statutory architecture, classification review, refounding, emergency amendment limits, and public amendment guides.
 
 ## Strengths
 
-TBD
+- v0.2 defines major statutory architecture.
+- It adds Amendment Classification Review.
+- It preserves delayed effect for election and power rules.
+- It adds emergency amendment limits.
+- Public amendment guides improve public legitimacy and comprehension.
+- Kernel protection remains strong.
 
 ## Residual Vulnerabilities
 
-TBD
+- Thresholds remain open.
+- Refounding process remains partly defined but not fully operationalized.
+- Courts may become too powerful in amendment classification.
+- Public referendum or regional ratification details remain open.
+- Emergency continuity exceptions could be abused if not narrow.
 
 ## Abuse Scenarios
 
-TBD
+- Governing bloc labels court or election reforms as ordinary policy.
+- Emergency is used to push “temporary” power-rule amendments.
+- Courts block legitimate amendments by overextending Kernel protection.
+- Public amendment guides are biased or incomplete.
+- Refounding is attempted without fair participation or rights continuity.
 
 ## Complexity Cost
 
-TBD
+Moderate. Amendment complexity is appropriate because these rules protect future democratic competition.
 
 ## v0.3 Recommendations
 
-TBD
+- Add default amendment thresholds.
+- Define refounding in more detail.
+- Require independent plain-language amendment summaries.
+- Require election/power-rule classification review before legislative final passage.
+- Add prohibition on incumbent benefit from emergency continuity amendments.
 
 ---
 
@@ -1019,27 +1147,44 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 had a phased transition but needed anti-capture, readiness, public transition ledger, technology freeze/register, first-election stabilization, and civic translation.
 
 ## Strengths
 
-TBD
+- v0.2 adds Transition Authority Limitation.
+- Public Transition Ledger improves public tracking.
+- Readiness Certification prevents premature activation.
+- Technology Freeze and Register prevents hidden algorithmic migration.
+- First Election Stabilization is strong.
+- Civic Translation directly addresses public confusion.
 
 ## Residual Vulnerabilities
 
-TBD
+- Readiness certifier is not named.
+- Transition timelines remain open.
+- Transition bodies could still shape implementation details in ways that favor insiders.
+- Legacy institutions may resist handover.
+- Technology freeze could disrupt services if not paired with continuity plans.
 
 ## Abuse Scenarios
 
-TBD
+- Incumbents delay readiness certification to avoid reform.
+- Transition officials claim technical necessity to alter substantive rules.
+- Legacy agencies hide algorithms, contracts, debt, or records.
+- First election under new system is challenged as confusing or illegitimate.
+- Civic translation is treated as pamphlets, not real public access.
 
 ## Complexity Cost
 
-TBD
+High but justified. Transition is the riskiest phase and must be capacity-gated.
 
 ## v0.3 Recommendations
 
-TBD
+- Define readiness certification authority and appeal process.
+- Add transition milestone deadlines.
+- Add legacy records handover sanctions.
+- Require service-continuity plans during technology freeze.
+- Require public comprehension review before first electoral transition.
 
 ---
 
@@ -1047,43 +1192,134 @@ TBD
 
 ## 1. Did v0.2 Reduce Evasion?
 
-TBD
+Yes. v0.2 substantially reduces evasion by defining public authority, hidden sovereigns, material algorithmic influence, public accountability defects, common control, and economic substance.
+
+Remaining evasion risks:
+
+- vague claims of advisory technology;
+- informal political influence networks;
+- emergency/classified actions;
+- under-specified amendment categories;
+- local capacity claims.
 
 ## 2. Did v0.2 Increase Complexity Too Much?
 
-TBD
+Partially. v0.2 is more enforceable but significantly more complex.
+
+The complexity is mostly justified because it closes real loopholes. The main risk is public usability.
+
+v0.3 should focus on:
+
+- definitions appendix;
+- routing maps;
+- public-facing summaries;
+- parameter tables;
+- cross-reference cleanup.
 
 ## 3. Did v0.2 Preserve Democratic Legitimacy?
 
-TBD
+Yes. It strengthens democratic legitimacy by clarifying party roles, protecting opposition, limiting stewardship overreach, and preserving lawful dissent.
+
+Remaining issue:
+
+- Stewardship, courts, and transition bodies need more clear public accountability so they do not appear as unelected veto points.
 
 ## 4. Did v0.2 Over-Empower Stewardship Bodies?
 
-TBD
+Not fatally, but the risk remains.
+
+v0.2 improved limits by stating stewardship may not govern in place of elected institutions. However, stewardship still controls important compliance, audit, and review functions.
+
+v0.3 should add:
+
+- Stewardship Classification Rule;
+- appeal of major stewardship findings;
+- public reasoning requirements;
+- review of blocked actions.
 
 ## 5. Did v0.2 Over-Empower Courts?
 
-TBD
+Moderately controlled. Judicial Restraint and fast-rights standards help.
+
+Risks remain around:
+
+- amendment classification;
+- Kernel effectiveness;
+- structural remedies;
+- emergency review.
+
+v0.3 should add clearer remedial hierarchy and court self-restraint language.
 
 ## 6. Did v0.2 Keep Technology Bounded?
 
-TBD
+Yes. This is one of the strongest areas.
+
+Material Influence Test and No Black-Box Public Authority are major improvements.
+
+v0.3 should add:
+
+- minimum system-card fields;
+- auditability requirements for proprietary systems;
+- emergency deployment review;
+- human review metrics.
 
 ## 7. Did v0.2 Keep Emergency Power Temporary?
 
-TBD
+Mostly yes.
+
+Emergency renewal, classified oversight, and normalcy restoration are improved.
+
+v0.3 needs:
+
+- default emergency duration;
+- escalating renewal thresholds;
+- post-emergency audit;
+- classified oversight composition.
 
 ## 8. Did v0.2 Improve Public Usability?
 
-TBD
+Somewhat. Public interface, jurisdiction maps, civic translation, party ledger, and public amendment guides help.
+
+But usability is now a major implementation challenge.
+
+v0.3 should require:
+
+- public usability audits;
+- one-door access;
+- non-digital access;
+- public constitutional guide;
+- readability standards.
 
 ## 9. Did v0.2 Create Implementation Bottlenecks?
 
-TBD
+Yes, but mostly acceptable ones.
+
+Potential bottlenecks:
+
+- readiness certification;
+- stewardship appointments;
+- fast rights tribunals;
+- fiscal scoring;
+- public interface;
+- technology audits;
+- DLT necessity review.
+
+v0.3 should distinguish immediate constitutional requirements from phased implementation requirements.
 
 ## 10. What Must v0.3 Solve?
 
-TBD
+v0.3 should solve:
+
+1. thresholds and default parameters where possible;
+2. stewardship classification and appeals;
+3. court remedial hierarchy;
+4. emergency timelines;
+5. public usability duties;
+6. transition certification authority;
+7. fiscal scoring model governance;
+8. party role threshold defaults;
+9. technology system-card minimums;
+10. amendment and refounding procedures.
 
 ---
 
@@ -1091,31 +1327,70 @@ TBD
 
 | Category | Grade | Notes |
 |---|---:|---|
-| Definitions and scope | TBD | TBD |
-| Democratic Kernel protection | TBD | TBD |
-| Rights protection | TBD | TBD |
-| Public accountability | TBD | TBD |
-| Federal/state/local clarity | TBD | TBD |
-| Five-system design | TBD | TBD |
-| Electoral/party governance | TBD | TBD |
-| Legislative design | TBD | TBD |
-| Executive design | TBD | TBD |
-| Courts and rights enforcement | TBD | TBD |
-| Integrity system | TBD | TBD |
-| Stewardship appointments | TBD | TBD |
-| Technology governance | TBD | TBD |
-| Distributed ledger safeguards | TBD | TBD |
-| Resilience and emergency safeguards | TBD | TBD |
-| Fiscal constitution | TBD | TBD |
-| Public service and anti-capture | TBD | TBD |
-| Information integrity | TBD | TBD |
-| Security neutrality | TBD | TBD |
-| Amendment architecture | TBD | TBD |
-| Transition design | TBD | TBD |
-| Overall | TBD | TBD |
+| Definitions and scope | A- | Strong expansion; needs materiality tests and examples |
+| Democratic Kernel protection | A | Kernel Effectiveness Test is strong |
+| Rights protection | A- | Personhood rights and limitations improved; social/public minimums remain open |
+| Public accountability | A | Cure rule gives teeth |
+| Federal/state/local clarity | A- | Capacity Gates improve model; metrics needed |
+| Five-system design | A- | Lead challenge and maps improve routing |
+| Electoral/party governance | A- | Strong, but thresholds remain open |
+| Legislative design | B+ | Better, but chamber powers and civic review details need work |
+| Executive design | B+ | Improved limits; Civic President and Emergency Council still underdefined |
+| Courts and rights enforcement | A- | Strong, needs timelines and remedy hierarchy |
+| Integrity system | A- | Better due process; whistleblower mechanics needed |
+| Stewardship appointments | A- | Strong, but deadlock and confirmation thresholds need defaults |
+| Technology governance | A | Material Influence and No Black-Box rules are strong |
+| Distributed ledger safeguards | A- | Strong boundaries; validator details needed |
+| Resilience and emergency safeguards | A- | Strong, but timelines and oversight composition remain open |
+| Fiscal constitution | A- | Strong truth machinery; scoring governance needed |
+| Public service and anti-capture | B+ | Good, but Public Trust License needs careful constraints |
+| Information integrity | B+ | Better, but censorship guardrails need operational detail |
+| Security neutrality | A- | Strong, but classified/domesic deployment mechanics needed |
+| Amendment architecture | A- | Strong, but thresholds/refounding need detail |
+| Transition design | A- | Strong readiness model; certifier and timelines needed |
+| Overall | A- | v0.2 materially improves v0.1; v0.3 should tune parameters and reduce ambiguity |
 
 ---
 
 # v0.3 Refinement Queue
 
-TBD
+## Highest Priority
+
+1. Add Material Public Function Test.
+2. Add Hidden Sovereign Test and speech/advocacy safe harbor.
+3. Add Material Impairment Standard for Kernel Effectiveness.
+4. Define “under Commonwealth authority.”
+5. Add burden of proof for rights limitations.
+6. Categorize Public Accountability defects and cure timelines.
+7. Add objective Capacity Gate metrics.
+8. Add emergency provisional lead assignment for urgent cross-system matters.
+9. Add public usability audit requirements for jurisdiction maps and interface.
+10. Add minimum electoral guarantees and Electoral Parameter Review.
+11. Define party role thresholds or default threshold ranges.
+12. Define common-control evidentiary standard and provisional status during appeal.
+13. Define Civic President selection and Emergency Council composition.
+14. Add court review timelines and remedial hierarchy.
+15. Add whistleblower confidential procedures and retaliation remedies.
+16. Add default stewardship deadlock sequence.
+17. Add minimum system-card fields and technology audit metrics.
+18. Add validator composition principles for DLT systems.
+19. Add emergency duration and renewal threshold defaults.
+20. Add fiscal model governance and assumption audit.
+21. Add public-service compliance assistance for candidates and officials.
+22. Add independent review for information-integrity enforcement.
+23. Add classified security whistleblower process.
+24. Add default amendment thresholds and refounding procedure.
+25. Add readiness certification authority and transition milestone deadlines.
+
+## Drafting Direction for Formal Constitution v0.3
+
+v0.3 should not expand the architecture dramatically. It should:
+
+- add default parameters where safe;
+- move technical details into appendices or constitutional statutes where appropriate;
+- reduce ambiguity around review bodies and timelines;
+- preserve public usability;
+- avoid turning every safeguard into a procedural bottleneck;
+- create clearer definitions and tests.
+
+The v0.2 architecture is strong. The v0.3 task is precision and usability.
