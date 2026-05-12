@@ -978,9 +978,27 @@ The legislature shall contain:
 
 The People’s Chamber shall provide population-based representation and ordinary legislative authority.
 
+The People’s Chamber shall ordinarily originate:
+
+1. budgets;
+2. ordinary legislation;
+3. confidence proceedings;
+4. executive oversight;
+5. taxation measures, subject to Regional Chamber participation where federal balance is affected.
+
 ## Section 3. Regional Chamber
 
 The Regional Chamber shall represent state or regional governments and preserve federal balance.
+
+The Regional Chamber shall have defined authority over:
+
+1. federal-state-local allocation of authority;
+2. constitutional statutes affecting state or regional powers;
+3. stewardship appointments requiring regional confirmation;
+4. national uniformity beyond minimum floors;
+5. intergovernmental compacts;
+6. framework amendments requiring regional ratification;
+7. emergency renewals affecting state or regional authority.
 
 ## Section 4. Joint and Chamber-Specific Powers
 
@@ -1005,19 +1023,44 @@ It shall not function as a permanent veto chamber.
 
 High-impact legislation includes measures with material rights impact, fiscal scale, emergency authority, constitutional structure, technology risk, environmental or infrastructure impact, or intergenerational burden.
 
-## Section 7. Civic Review Limits
+## Section 7. High-Impact Classification Review
+
+A dispute over whether legislation is high-impact shall be reviewable through a fast legislative classification process.
+
+The classification process shall not be used to indefinitely delay ordinary legislation.
+
+## Section 8. Civic Review Integrity Rule
+
+The Civic Review Mechanism shall operate under integrity standards, including:
+
+1. fair selection or sortition safeguards where citizen review is used;
+2. conflict rules;
+3. compensation where participation is burdensome;
+4. balanced briefing materials;
+5. public mandate;
+6. independent facilitation;
+7. public record;
+8. time-limited review;
+9. public findings;
+10. clear statement of legal effect.
+
+## Section 9. Civic Review Limits
 
 Civic Review delay shall be time-limited, publicly reasoned, and subject to legislative override according to law.
 
-## Section 8. Legislative Powers
+Repeated or bad-faith Civic Review triggers may be procedurally limited by neutral rule.
+
+## Section 10. Legislative Powers
 
 The legislature may pass laws, approve budgets, authorize taxation, oversee the executive, confirm major appointments, renew emergency powers, investigate public authority, and amend the constitutional framework through prescribed procedures.
 
-## Section 9. Legislative Investigation Due Process
+## Section 11. Legislative Investigation Due Process
 
 Legislative investigations shall have public purpose, defined scope, procedural fairness, evidence standards, privacy safeguards, and protection against harassment.
 
-## Section 10. Legislative Limits
+Subpoenas, compelled testimony, confidential records, and private-person investigations shall be governed by law and subject to review.
+
+## Section 12. Legislative Limits
 
 The legislature may not:
 
@@ -1026,9 +1069,14 @@ The legislature may not:
 3. eliminate opposition rights;
 4. place election machinery under party control;
 5. authorize permanent emergency rule;
-6. legalize secret public authority.
+6. legalize secret public authority;
+7. use procedure to permanently silence recognized Opposition or Plurality rights.
 
----
+## Section 13. Oversight Allocation
+
+Key oversight committees shall include meaningful Opposition and Plurality participation.
+
+Constitutional statute shall identify oversight bodies that may not be controlled exclusively by the Governing Power.
 
 # Article XI — Executive
 
@@ -1049,7 +1097,21 @@ The Chief Executive may administer law, propose budgets, coordinate policy, dire
 
 The Chief Executive may not control election administration, ignore courts, suspend opposition rights, politicize security forces, extend emergency authority unilaterally, or use public technology for partisan advantage.
 
-## Section 3. Civic President
+## Section 3. Constructive No-Confidence Minimum Rule
+
+A no-confidence motion against the Chief Executive or governing administration must identify a replacement governing bloc or transition mechanism sufficient to maintain lawful continuity.
+
+Constitutional statute shall define:
+
+1. who may file a motion;
+2. required support threshold;
+3. debate period;
+4. vote threshold;
+5. replacement certification;
+6. interim administration rules;
+7. limits on repeated bad-faith motions.
+
+## Section 4. Civic President
 
 The Civic President is nonpartisan.
 
@@ -1059,25 +1121,66 @@ The office may not govern ordinary policy.
 
 The selection, term, removal, and nonpartisanship standards of the Civic President shall be defined by constitutional statute.
 
-## Section 4. Emergency Council
+## Section 5. Civic President Selection Principles
+
+The Civic President shall be selected through a process designed to produce cross-bloc, regional, and public legitimacy.
+
+The selection process shall not allow a single governing party or coalition to appoint the office unilaterally.
+
+The office shall be subject to:
+
+1. fixed term;
+2. nonpartisanship duties;
+3. conflict disclosure;
+4. removal for cause;
+5. prohibition on ordinary policy control;
+6. public reasoning for constitutional referrals.
+
+## Section 6. Emergency Council
 
 The Emergency Council is temporary, legally scoped, time-limited, and subordinate to emergency law.
 
 It may coordinate emergency response. It may not create permanent authority, suspend elections, govern ordinary policy, or bypass courts.
 
-## Section 5. Removal
+## Section 7. Emergency Council Activation Rule
+
+Emergency Council activation requires:
+
+1. lawful emergency declaration;
+2. defined emergency type;
+3. named accountable executive;
+4. defined membership;
+5. scope of authority;
+6. duration;
+7. reporting duty;
+8. rights review;
+9. fiscal review where spending is implicated;
+10. normalcy restoration plan.
+
+Emergency Council authority expires with the emergency authority that created it unless separately renewed by law.
+
+## Section 8. Removal
 
 Executive authority may be ended through regular election, constructive no-confidence, impeachment, incapacity process, resignation, or lawful judicial finding where narrowly defined.
 
-## Section 6. Judicial Removal Limits
+## Section 9. Judicial Removal Limits
 
 Judicial removal findings shall be limited to incapacity, unlawful usurpation, grave constitutional violation, or other narrowly defined constitutional cause.
 
-## Section 7. Executive Accountability Duty
+## Section 10. Executive Accountability Duty
 
 The executive shall maintain public accountability records and comply with lawful court, legislative, and stewardship orders.
 
----
+## Section 11. Executive Noncompliance Escalation
+
+Failure by the executive to comply with final lawful orders may trigger:
+
+1. public notice;
+2. compliance deadline;
+3. legislative oversight;
+4. court enforcement;
+5. integrity review;
+6. impeachment or removal process where bad faith, corruption, or constitutional violation exists.
 
 # Article XII — Rights and Justice System
 
@@ -1112,37 +1215,77 @@ Fast rights relief requires plausible serious rights harm, urgency, connection t
 
 Courts shall use the narrowest effective remedy where possible.
 
-## Section 6. Election and Party Court
+## Section 6. Remedial Hierarchy Rule
+
+Courts shall generally prefer the least intrusive remedy sufficient to cure the violation.
+
+Remedies may include:
+
+1. notice;
+2. disclosure;
+3. procedural correction;
+4. reconsideration;
+5. individual relief;
+6. limited class relief;
+7. narrow injunction;
+8. broader injunction where systemic harm exists;
+9. compliance plan;
+10. structural remedy only where necessary to correct persistent constitutional failure.
+
+Courts shall leave lawful policy choices to democratic institutions where multiple constitutional options remain.
+
+## Section 7. Election and Party Court
 
 The Election and Party Court shall resolve election disputes, districting challenges, party role disputes, certification disputes, and related democratic competition matters.
 
-## Section 7. Technology Review Tribunal
+## Section 8. Election and Emergency Review Timing
+
+Constitutional statute shall establish accelerated timelines for:
+
+1. election certification disputes;
+2. ballot access disputes;
+3. districting disputes;
+4. party role disputes;
+5. emergency-power challenges;
+6. urgent rights claims.
+
+Timelines shall be fast enough to preserve practical remedies and disciplined enough to prevent certification sabotage.
+
+## Section 9. Technology Review Tribunal
 
 The Technology Review Tribunal shall resolve disputes involving public algorithms, automated decision systems, public AI, surveillance tools, and digital public authority.
 
-## Section 8. One-Door Filing
+## Section 10. One-Door Filing
 
 A timely and plausible claim filed in the wrong tribunal in good faith shall be transferred to the proper tribunal, not dismissed.
 
-## Section 9. Primary Harm Rule
+## Section 11. Primary Harm Rule
 
 Jurisdiction shall be assigned according to primary harm: rights, election, technology, agency action, constitutional framework, or ordinary civil/criminal dispute.
 
-## Section 10. Judicial Restraint
+## Section 12. Judicial Restraint
 
 Courts shall remedy illegality, rights violations, procedural failures, and constitutional defects.
 
 Courts shall not choose ordinary policy where lawful democratic choices remain.
 
-## Section 11. Independent Technical Expert Pool
+## Section 13. Independent Technical Expert Pool
 
 Technology-related cases shall have access to conflict-screened, rotating, independent technical expertise subject to adversarial challenge.
 
-## Section 12. Court Order Enforcement
+The expert pool shall include public-interest, academic, civil-society, and technical expertise and shall be governed by conflict disclosure and cooling-off rules.
+
+## Section 14. Court Order Enforcement
 
 Failure to comply with final constitutional or rights orders shall trigger public notice, compliance deadlines, responsible-officer identification, remedial order, and escalation where bad faith persists.
 
----
+## Section 15. Court Compliance Dashboard
+
+The Public Constitutional Interface shall include a court compliance dashboard showing final rights and constitutional orders, responsible offices, compliance deadlines, status, and lawful exceptions.
+
+## Section 16. Judicial Structure Change Rule
+
+Changes to court size, jurisdiction, appointment process, tenure, tribunal powers, or case-allocation rules require enhanced process, public impact statement, delayed effect where power rules are implicated, and constitutional review where Kernel rights are affected.
 
 # Article XIII — Integrity System
 
@@ -1157,6 +1300,8 @@ It shall oversee lobbying, ethics, conflicts of interest, procurement, public sp
 ## Section 3. Public Case Standards
 
 Integrity bodies shall publish case-opening standards, enforcement statistics, sanction categories, and appeal paths.
+
+Case-opening standards must balance public accountability with protection against frivolous, retaliatory, or politically timed abuse.
 
 ## Section 4. Influence Ledger
 
@@ -1174,19 +1319,49 @@ Minor defects shall receive cure periods where consistent with public integrity.
 
 Integrity findings and sanctions shall have appeal paths and public reasoning.
 
-## Section 7. Whistleblower Protection
+## Section 7. Severe Sanctions
+
+Severe integrity sanctions affecting candidacy, party status, office eligibility, public funding, or constitutional office shall require:
+
+1. public reasoning;
+2. evidence standard defined by law;
+3. opportunity to respond;
+4. independent review;
+5. appeal;
+6. proportionality.
+
+## Section 8. Whistleblower Protection
 
 Whistleblowers reporting corruption, abuse, hidden influence, unlawful surveillance, procurement fraud, fiscal concealment, algorithmic abuse, or emergency overreach shall be protected against retaliation.
 
+## Section 9. Protected Whistleblower Channels
+
+The Commonwealth shall maintain protected reporting channels for whistleblowers, including confidential channels where lawful.
+
+Whistleblower protections shall include:
+
+1. anti-retaliation remedies;
+2. protection against employment punishment;
+3. protection against clearance or access retaliation where applicable;
+4. confidentiality safeguards;
+5. independent review;
+6. safe reporting for classified or sensitive matters under law.
+
+## Section 10. False or Bad-Faith Reports
+
 False or bad-faith reports may be sanctioned after due process.
 
-## Section 8. Audit-the-Auditors
+Mistaken but good-faith reports shall not be treated as bad faith solely because allegations are not proven.
+
+## Section 11. Pre-Election Integrity Claims
+
+Integrity claims materially affecting candidates, parties, ballot access, public funding, or election timing shall receive expedited process sufficient to protect both electoral integrity and due process.
+
+## Section 12. Audit-the-Auditors
 
 Integrity bodies shall be subject to transparent case standards, enforcement statistics, appeal, staggered appointments, external review, budget protection, and removal for cause.
 
 Criminal punishment remains within judicial process.
-
----
 
 # Article XIV — Stewardship Appointments
 
@@ -1216,29 +1391,68 @@ Stewardship appointments shall use:
 
 Enhanced confirmation shall require supermajority or cross-bloc approval defined by constitutional statute.
 
-## Section 5. Deadlock Resolution
+## Section 5. Default Deadlock Sequence
 
-Constitutional statute shall establish a deadlock resolution sequence that prevents indefinite vacancies while preserving independence.
+If constitutional statute does not provide a specific deadlock sequence, the default sequence shall include:
 
-## Section 6. Composition Balance
+1. standard confirmation vote;
+2. public reasons for rejection;
+3. reopened shortlist;
+4. ranked list from qualification panel;
+5. temporary acting appointment from prequalified pool;
+6. final fallback selection from a highly qualified publicly vetted shortlist by neutral method.
+
+The fallback method shall not allow unilateral control by the Governing Power.
+
+## Section 6. Acting Appointment Limit
+
+Acting stewardship officials may serve only for a limited period defined by law.
+
+An acting official may not make major structural, enforcement, or appointment decisions except where necessary to preserve continuity, rights, elections, security, or legal duties.
+
+## Section 7. Composition Balance
 
 Stewardship bodies shall not be dominated by one political, financial, professional, vendor, donor, sectoral, or regional bloc.
 
-## Section 7. Performance Failure Review
+## Section 8. Composition Balance Review
+
+Disputes over composition balance shall be reviewable through a neutral process.
+
+Composition balance shall not be used to exclude nominees based solely on lawful viewpoint, criticism of government, or unpopular but lawful background.
+
+## Section 9. Independence-Risk Publication
+
+Every stewardship nominee shall receive a public independence-risk statement disclosing material ties to parties, donors, vendors, regulated entities, public contractors, advocacy networks, or other relevant interests.
+
+## Section 10. Citizen Review Panel Standards
+
+Citizen review panels shall be selected through fair and transparent process and shall review public trust, conflicts, civic explanation, accessibility commitments, and legitimacy concerns.
+
+Citizen panels shall not replace technical qualification review unless separately authorized and qualified.
+
+## Section 11. Performance Failure Review
 
 Stewardship independence does not prevent review for persistent failure of duty, missed reporting, repeated unlawful decisions, severe public-interface failure, or chronic nonperformance.
 
-## Section 8. Bad-Faith Removal Petitions
+## Section 12. Bad-Faith Removal Petitions
 
 Bad-faith removal petitions intended to intimidate or retaliate against stewardship officials may be sanctioned.
 
-## Section 9. Limits
+## Section 13. Stewardship Classification Rule
+
+Stewardship bodies may classify legality, compliance, risk, integrity, fiscal exposure, technical safety, rights impact, procedural validity, and emergency authority status.
+
+They may not choose ordinary policy values, favor a party, govern in place of elected institutions, or define lawful ideology.
+
+## Section 14. Stewardship Finding Appeal
+
+Major stewardship findings that block, suspend, materially burden, or publicly sanction public authority shall include public reasoning and appeal or review path.
+
+## Section 15. Limits
 
 Stewardship institutions may audit, disclose, review, certify, block unlawful action, trigger judicial or legislative review, and enforce neutral rules.
 
 They may not govern in place of elected institutions.
-
----
 
 # Article XV — Technology and Algorithmic Governance
 
