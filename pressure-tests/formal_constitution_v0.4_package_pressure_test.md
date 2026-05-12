@@ -745,91 +745,151 @@ Moderate. The framework is strong, but exact thresholds and timelines are necess
 
 ## 1. Does v0.4 Improve Readability Compared to v0.3?
 
-TBD
+Yes. v0.4 is materially more readable because the core constitution is shorter and the technical detail is distributed into schedules.
+
+Finding: the restructuring works. v0.3 was a strong technical draft, but too dense as a primary constitutional text. v0.4 separates principle from implementation mechanics.
+
+Recommended fix: create constitutional-draft/formal_constitution_v0.4/cross_reference_matrix.md.
 
 ## 2. Does v0.4 Preserve the Same Architecture?
 
-TBD
+Yes. v0.4 preserves the Democratic Kernel, rights floor, public accountability, five constitutional systems, party power roles, stewardship independence, bounded technology, fiscal truth machinery, emergency expiration, security neutrality, and transition by readiness.
+
+Recommended fix: add a source continuity section to index.md showing how v0.4 maps back to v0.3.
 
 ## 3. Are Any Schedules Too Operational?
 
-TBD
+Yes. Schedule F, Schedule G, Schedule I, Schedule J, and Schedule N are detailed enough that portions may later move into implementation codes.
+
+Recommended fix: do not shrink them yet. Populate implementation codes first, then decide what should migrate.
 
 ## 4. Are Any Core Principles Missing from the Core Constitution?
 
-TBD
+Mostly no. The core includes the major principles.
+
+Potential missing core clauses: constitutional package hierarchy, schedules have constitutional force, public routing principle, anti-weaponization principle, and risk-tiered process principle.
+
+Recommended fix: patch core_constitution.md with a short constitutional package hierarchy clause.
 
 ## 5. Are Cross-References Complete?
 
-TBD
+Mostly, but not fully. Core article to controlling schedule map is missing, schedule-to-schedule matrix is missing, and there is no automated check for file references.
+
+Recommended fix: create constitutional-draft/formal_constitution_v0.4/cross_reference_matrix.md.
 
 ## 6. Are Schedule Amendment Rules Consistent?
 
-TBD
+Generally, but not perfectly. Schedule O should control schedule amendment classification.
 
-## 7. Are Rights and Kernel Protections Strong Engouh Across Schedules?
+Recommended fix: add language stating that where a schedule amendment affects elections, power rules, rights, emergency authority, courts, stewardship, or the Democratic Kernel, Schedule O controls classification and process.
 
-TBD
+## 7. Are Rights and Kernel Protections Strong Enough Across Schedules?
+
+Yes. Rights and Kernel protections appear consistently across the core, Schedule A, Schedule E, Schedule J, Schedule K, Schedule O, and Schedule N.
+
+Recommended fix: keep the Ordinary Reform Safe Harbor and Anti-Weaponization Principle prominent. Add Kernel examples later.
 
 ## 8. Is Public Usability Better or Worse Than v0.3?
 
-TBD
+Better structurally, but not complete. The shorter core, package index, public lite constitution, public interface schedule, wrong-door routing, non-digital access, dashboards, and public ledgers all help.
 
-## 9. Does the Package Create Implementatoin Bottlenecks?
+Recommended fix: populate implementation-codes/public_interface_code.md.
 
-TBD
+## 9. Does the Package Create Implementation Bottlenecks?
+
+Yes, but knowingly. Bottlenecks include public interface buildout, court capacity, stewardship appointments, fiscal reporting, technology audits, transition readiness certification, and election reform rollout.
+
+Recommended fix: create a future v0.4_readiness_plan.md distinguishing immediately binding principles, phased institutional requirements, and implementation-code details.
 
 ## 10. Is the Package Ready for System Charters?
 
-TBD
+Yes. The v0.4 package is structured enough to support system charters.
 
----
+Best next charter: system-charters/democratic_system_charter.md.
 
 # v0.4 Package Grade Table
 
 | Category | Grade | Notes |
-| --- | --- | --- |
-| Core readability | TBD | TBD |
-| Schedule structure | TBD | TBD |
-| Cross-reference quality | TBD | TBD |
-| Legal precision | TBD | TBD |
-| Public usability | TBD | TBD |
-| Democratic legitimacy | TBD | TBD |
-| Rights protection | TBD | TBD |
-| Anti-capture architecture | TBD | TBD |
-| Electoral and party governance | TBD | TBD |
-| Stewardship and integrity | TBD | TBD |
-| Court and remedy design | TBD | TBD |
-| Technology and ledger governance | TBD | TBD |
-| Fiscal constitution | TBD | TBD |
-| Emergency and security safeguards | TBD | TBD |
-| Transition design | TBD | TBD |
-| Amendment/refounding design | TBD | TBD |
-| Implementation feasibility | TBD | TBD |
-| Overall | TBD | TBD |
-
----
+|---|---:|---|
+| Core readability | A- | Major improvement over v0.3; could use hierarchy clause |
+| Schedule structure | A- | Strong split; some schedules may later move details into codes |
+| Cross-reference quality | B+ | Good but needs matrix and validation |
+| Legal precision | A | Strong definitions, tests, schedules, and review rules |
+| Public usability | B+ | Better structure; implementation code still needed |
+| Democratic legitimacy | A | Strong Kernel, election, party, and amendment safeguards |
+| Rights protection | A | Strong rights floor, fast review, due process, and accountability |
+| Anti-capture architecture | A | Strong across parties, stewardship, public service, vendors, fiscal, tech |
+| Electoral and party governance | A- | Strong; thresholds and crosswalk need refinement |
+| Stewardship and integrity | A- | Strong; lifecycle diagram and acting appointment defaults needed |
+| Court and remedy design | A- | Strong; needs exact timelines and routing chart |
+| Technology and ledger governance | A | Strongest technical area; implementation capacity is the main issue |
+| Fiscal constitution | A- | Strong; needs dashboard/code implementation |
+| Emergency and security safeguards | A- | Strong; exact emergency durations and classified oversight details needed |
+| Transition design | A- | Strong; readiness certifier and milestone schedule needed |
+| Amendment/refounding design | A- | Strong; needs threshold table and schedule hierarchy cleanup |
+| Implementation feasibility | B+ | Feasible only through staged rollout and implementation codes |
+| Overall | A- | Strong structured draft ready for charters and implementation-code buildout |
 
 # v0.4 Fix Queue
 
-TBD
+## High Priority
 
----
+1. Add constitutional package hierarchy clause to core_constitution.md.
+2. Create cross_reference_matrix.md.
+3. Add schedule amendment consistency note pointing to Schedule O.
+4. Add public routing principle to the core or index.
+5. Add anti-weaponization principle to the core or index.
+6. Create implementation-codes/public_interface_code.md.
+7. Create system-charters/democratic_system_charter.md.
+
+## Medium Priority
+
+8. Add electoral/party crosswalk between Schedule B and Schedule C.
+9. Add court routing chart for Schedule E.
+10. Add stewardship appointment lifecycle table for Schedule D.
+11. Add fiscal dashboard template for Schedule I.
+12. Add technology system-card template for Schedule G.
+13. Add emergency duration parameter table for Schedule J.
+14. Add amendment threshold table for Schedule O.
+
+## Later
+
+15. Add automated link/reference validation script.
+16. Update references/glossary.md from Schedule A.
+17. Add How to Challenge Public Power public guide.
+18. Add public-facing How Government Is Formed guide.
+19. Create transition milestone table.
+20. Populate remaining system charters.
+21. Populate implementation codes.
 
 # Milestone Decision
 
 ## Option A - Mark v0.4 Package as Stable Structured Draft
 
-TBD
+This is justified. v0.4 successfully converts the long v0.3 technical draft into a structured constitutional package.
+
+Strengths: readable core, complete schedule suite, preserved architecture, strong anti-evasion design, and navigable package index.
+
+Weaknesses: cross-reference matrix missing, implementation codes not populated, and system charters scaffolded only.
 
 ## Option B - Patch v0.4 Before Charter Buildout
 
-TBD
+This is reasonable but not strictly necessary. The useful patch would be small: hierarchy clause, cross-reference matrix, and schedule amendment consistency note.
 
 ## Option C - Begin System Charters Immediately
 
-TBD
+This is viable now. The schedules are complete enough to support charters.
+
+Best first charter: system-charters/democratic_system_charter.md.
 
 ## Recommendation
 
-TBD
+Proceed with a small stabilization patch before system charters.
+
+Recommended next artifacts:
+
+1. constitutional-draft/formal_constitution_v0.4/cross_reference_matrix.md
+2. Small patch to core_constitution.md adding constitutional package hierarchy
+3. Then populate system-charters/democratic_system_charter.md
+
+Milestone status: Formal Constitution v0.4 is ready to be treated as a Stable Structured Draft after the cross-reference matrix and hierarchy patch.
