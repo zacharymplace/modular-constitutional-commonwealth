@@ -1483,13 +1483,32 @@ Human review must be staffed, trained, authorized, timely, documented, accessibl
 
 A decorative human signature is not review.
 
-## Section 5. No Black-Box Public Authority
+## Section 5. Algorithmic Review Metrics
+
+Rights-impacting algorithmic systems shall publish or report, subject to lawful privacy and security limits:
+
+1. appeal rate;
+2. reversal or modification rate;
+3. override rate;
+4. error rate where measurable;
+5. disparity indicators;
+6. average review time;
+7. unresolved review backlog;
+8. model drift events;
+9. rollback events;
+10. human-review staffing sufficiency.
+
+## Section 6. No Black-Box Public Authority
 
 No unauditable system may make or materially shape rights-impacting public decisions.
 
 Trade secrecy, vendor control, or technical complexity shall not defeat public audit, court review, or rights protection.
 
-## Section 6. Prohibited Automated Actions
+## Section 7. Technology Procurement Rule
+
+No public contract for a rights-impacting technology system shall be valid unless the Commonwealth has sufficient audit access, security review, documentation, appeal support, and exit rights.
+
+## Section 8. Prohibited Automated Actions
 
 No algorithm may independently:
 
@@ -1503,17 +1522,65 @@ No algorithm may independently:
 8. extend emergency powers;
 9. secretly deny benefits without appeal.
 
-## Section 7. Autonomic Governance
+## Section 9. Autonomic Governance
 
 Predictive, self-learning, and self-healing systems may improve forecasting, service delivery, corruption detection, policy simulation, infrastructure monitoring, cyber resilience, and administrative repair.
 
 They may not self-amend law, rights, elections, punishment, eligibility, or constitutional authority.
 
-## Section 8. Public System Cards
+## Section 10. Self-Learning Approval Gates
 
-High-risk public technology systems shall publish system cards describing purpose, legal authority, risk tier, data sources, human owner, audit status, appeal path, limitations, and rollback procedure.
+A public system that learns, updates, or changes model behavior after deployment must have approval gates for:
 
----
+1. rights-impacting updates;
+2. material model changes;
+3. changed data sources;
+4. changed risk classifications;
+5. changed deployment contexts;
+6. emergency deployment;
+7. rollback after harmful drift.
+
+Unauthorized material model drift shall trigger review and potential suspension.
+
+## Section 11. Public System Cards
+
+High-risk public technology systems shall publish system cards describing:
+
+1. system name;
+2. purpose;
+3. legal authority;
+4. accountable human owner;
+5. risk tier;
+6. affected population;
+7. data sources;
+8. model or system type;
+9. decision role;
+10. limitations;
+11. known risks;
+12. audit status;
+13. appeal path;
+14. human review process;
+15. performance metrics where appropriate;
+16. rollback procedure;
+17. deployment and review dates.
+
+## Section 12. Emergency Technology Deployment Rule
+
+Emergency deployment of high-risk technology may occur only through time-limited provisional authorization.
+
+Such authorization must include:
+
+1. legal basis;
+2. emergency purpose;
+3. accountable owner;
+4. rights assessment where possible;
+5. human review plan;
+6. expiration date;
+7. post-deployment audit;
+8. public disclosure as soon as lawful;
+9. rollback or suspension path.
+
+Emergency deployment shall not bypass the No Black-Box Public Authority rule for rights-impacting decisions.
 
 # Article XVI — Distributed Public Ledger System
 
@@ -1549,25 +1616,63 @@ Courts and lawful authorities may correct or supersede ledger records through tr
 
 Validator and protocol governance shall be balanced so that no single party, branch, agency, vendor, region, institutional class, or professional guild controls validation, upgrades, access rules, or correction governance.
 
-## Section 6. Ledger Deployment Review
+## Section 6. DLT Validator Composition Principles
+
+Distributed ledger validator governance shall include, where appropriate:
+
+1. Technology System participation;
+2. Integrity System participation;
+3. Public Audit participation;
+4. state or regional node participation;
+5. judicial or records authority participation for legal records;
+6. election stewardship participation for election audit ledgers;
+7. independent archival or public-interest technical participation where appropriate.
+
+No validator class may control a functional majority unless constitutionally justified and independently reviewed.
+
+## Section 7. Metadata Privacy Audit
+
+Before ledger deployment, the Commonwealth shall conduct metadata privacy review assessing:
+
+1. direct data exposure;
+2. metadata exposure;
+3. timing inference;
+4. linkability;
+5. reidentification risk;
+6. repeated-transaction patterns;
+7. credential revocation inference;
+8. location or status inference;
+9. vulnerable population exposure.
+
+Sensitive personal data shall remain off-chain unless separately authorized under strict rights review.
+
+## Section 8. Ledger Deployment Review
 
 Before deployment, each ledger module shall receive Technology, Rights and Justice, and Integrity review where relevant.
 
-## Section 7. DLT Necessity and Sunset
+## Section 9. DLT Necessity and Sunset
 
 Each ledger module shall pass a necessity review showing that distributed verification materially outperforms simpler audited systems.
 
 Each module shall have sunset or reauthorization review.
 
-## Section 8. Oracle Accountability
+## Section 10. Oracle Accountability
 
 Every real-world fact entered into a ledger shall have named certifying authority, evidence trail, challenge path, audit path, correction path, and conflict disclosure where relevant.
 
-## Section 9. Ledger Guardrails
+## Section 11. Smart Contract Override Requirement
+
+Any government smart contract must include lawful pause, override, appeal, correction, rollback, court-order compliance, and emergency suspension mechanisms.
+
+No government smart contract may be unstoppable.
+
+## Section 12. Ledger Guardrails
 
 Ledger systems shall comply with metadata privacy, public exit and portability, human override, court supremacy, election boundary, plain-language proof, and disclosure quality rules.
 
----
+## Section 13. Public Education
+
+Ledger-backed records shall include plain-language explanation that the ledger verifies record history and does not itself determine legal truth.
 
 # Article XVII — Resilience and Future Generations
 
@@ -1596,21 +1701,40 @@ Major laws shall be reviewed for fiscal impact, rights impact, infrastructure im
 
 A major law includes any measure with material fiscal scale, rights impact, emergency relevance, technology risk, infrastructure impact, climate impact, intergenerational burden, or constitutional-system effect.
 
-## Section 5. Response to Resilience Findings
+## Section 5. Tiered Major Law Review
+
+Constitutional statute shall define tiered review intensity for major laws.
+
+Review intensity shall scale according to:
+
+1. rights impact;
+2. fiscal scale;
+3. irreversibility;
+4. emergency authority;
+5. technology risk;
+6. intergenerational burden;
+7. infrastructure or climate exposure;
+8. effect on democratic power.
+
+## Section 6. Response to Resilience Findings
 
 Elected institutions shall publicly respond to major Resilience findings.
 
 Resilience findings are not ordinary policy commands unless constitutional violation, emergency authority, or statutory trigger is present.
 
-## Section 6. Present Rights Priority
+## Section 7. Forecast Accountability
+
+The Resilience System shall periodically compare major forecasts, risk assessments, and stress tests against observed outcomes.
+
+Forecast failure does not by itself prove misconduct, but persistent error shall require methodological review.
+
+## Section 8. Present Rights Priority
 
 Future-generation stewardship shall not justify violation of the rights floor or denial of minimum present public obligations.
 
-## Section 7. Limit
+## Section 9. Limit
 
 The Resilience System may not become permanent emergency government.
-
----
 
 # Article XVIII — Emergency Powers
 
@@ -1636,25 +1760,73 @@ Emergency activation must include:
 8. judicial review availability;
 9. normalcy restoration plan.
 
-## Section 4. Expiration
+## Section 4. Default Emergency Duration
+
+Unless a shorter period is required by law, emergency authority shall receive an initial limited duration defined by constitutional statute.
+
+Initial emergency duration shall be short enough to require timely legislative review and long enough to permit immediate response.
+
+## Section 5. Expiration
 
 Emergency powers expire automatically unless renewed.
 
 Longer renewal requires stronger legislative approval.
 
-## Section 5. Renewal
+## Section 6. Escalating Renewal Thresholds
 
-Emergency renewal requires public necessity statement, rights review, fiscal review, evidence of continued emergency, and normalcy restoration progress.
+Emergency renewal thresholds shall increase as emergency authority continues.
 
-## Section 6. Classified Actions
+Renewal shall require:
+
+1. public necessity statement;
+2. evidence of continuing emergency;
+3. rights review;
+4. fiscal review;
+5. normalcy restoration progress;
+6. legislative approval;
+7. judicial review availability.
+
+Extended or repeated renewals may require enhanced legislative approval or regional participation where federal authority is affected.
+
+## Section 7. Renewal Votes
+
+Emergency renewal votes shall be separately recorded and publicly justified.
+
+Emergency renewal shall not be hidden inside ordinary legislation.
+
+## Section 8. Classified Actions
 
 Classified emergency actions require classified legislative and judicial oversight where public disclosure is lawfully limited.
 
-## Section 7. Non-Suspendable Principles
+## Section 9. Classified Oversight Standards
+
+Classified oversight bodies shall have:
+
+1. lawful access to necessary information;
+2. members subject to security and conflict rules;
+3. opposition participation where compatible with security;
+4. judicial review path;
+5. sealed public surrogate reporting where possible;
+6. whistleblower channels;
+7. post-emergency disclosure review.
+
+## Section 10. Post-Emergency Audit
+
+Every emergency shall receive post-emergency review of:
+
+1. legal basis;
+2. rights impact;
+3. fiscal impact;
+4. procurement;
+5. surveillance;
+6. technology deployment;
+7. security-force use;
+8. normalcy restoration;
+9. lessons learned.
+
+## Section 11. Non-Suspendable Principles
 
 Emergency powers may not abolish due process, court access, lawful opposition, transfer-of-power rules, prohibition on permanent emergency rule, or protection against secret punishment.
-
----
 
 # Article XIX — Fiscal Constitution
 
@@ -1690,23 +1862,52 @@ Public obligations must be disclosed based on real fiscal risk, not legal form.
 
 Fiscal scores shall publish assumptions, data sources, confidence ranges, sensitivity analysis, alternative scenarios, discount rates where used, risk bands, dissenting technical notes where material, and model limitations.
 
-## Section 6. Tax Expenditure Sunset
+## Section 6. Fiscal Model Governance
+
+Fiscal models used for major public scoring shall be subject to:
+
+1. public methodology disclosure;
+2. independent technical review;
+3. sensitivity testing;
+4. comparison against actual outcomes;
+5. correction of persistent bias;
+6. dissenting technical notes where material;
+7. audit of material assumption changes.
+
+## Section 7. Tax Expenditure Sunset
 
 Tax expenditures shall have expiration or periodic review, public cost estimate, beneficiary analysis, performance evaluation, and influence disclosure where material.
 
-## Section 7. Local Fiscal Distress
+## Section 8. Tax Expenditure Renewal Evidence
+
+A tax expenditure may be renewed only after public review of:
+
+1. purpose;
+2. cost;
+3. beneficiaries;
+4. distributional effect;
+5. regional effect;
+6. performance evidence;
+7. influence history where material;
+8. alternatives.
+
+## Section 9. Local Fiscal Distress
 
 The Commonwealth shall maintain a local fiscal distress framework including early warning, technical assistance, service continuity, anti-corruption audit, rights safeguards, and restructuring path where necessary.
 
-## Section 8. Stewardship Funding
+## Section 10. Local Fiscal Distress Support Rule
+
+Local fiscal distress processes shall be designed to restore capacity, protect rights, preserve essential services, and prevent corruption without unnecessarily overriding local democracy.
+
+Distress designation shall be public, reasoned, reviewable, and paired with support or restructuring path.
+
+## Section 11. Stewardship Funding
 
 A budget cut is unconstitutional if it materially prevents a stewardship body from performing required constitutional duties without lawful, non-retaliatory justification.
 
-## Section 9. Fiscal Purpose
+## Section 12. Fiscal Purpose
 
 Fiscal governance is truth machinery, not austerity machinery.
-
----
 
 # Article XX — Public Service and Anti-Capture
 
