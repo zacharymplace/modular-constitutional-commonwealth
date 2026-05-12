@@ -678,27 +678,47 @@ Each test area should answer:
 
 ## v0.3 Improvements
 
-TBD
+- Algorithmic Review Metrics add real accountability beyond nominal audit.
+- Technology Procurement Rule closes the vendor black-box loophole.
+- Emergency Technology Deployment Rule prevents crisis deployments from bypassing review indefinitely.
+- Self-Learning Approval Gates are stronger and directly address model drift.
+- Public System Cards now have minimum fields, improving disclosure quality.
 
 ## Overcomplexity Risk
 
-TBD
+- Technology governance is now dense and compliance-heavy.
+- Smaller agencies may struggle to meet documentation, audit, review, and system-card requirements.
+- Metrics may be published but misunderstood without plain-language context.
 
 ## Contradictions / Overlap
 
-TBD
+- Technology review overlaps with Rights, Integrity, Procurement, Public Accountability, Emergency Powers, and Distributed Ledger governance.
+- Emergency Technology Deployment overlaps with Emergency Powers and Resilience.
+- Algorithmic Review Metrics may conflict with privacy if not aggregated properly.
 
 ## Abuse Scenarios
 
-TBD
+- Vendor claims audit access is sufficient while withholding meaningful model documentation.
+- Agency publishes system cards that technically comply but are too vague to be useful.
+- Emergency deployment becomes a backdoor for permanent technology adoption.
+- Human review metrics are gamed by discouraging appeals or narrowly defining reversals.
+- Public algorithmic metrics reveal sensitive group-level information.
 
 ## Implementation Concerns
 
-TBD
+- Requires deep technical audit capacity.
+- Requires privacy-preserving reporting standards.
+- Requires procurement teams capable of enforcing audit rights.
+- Requires accessible appeal systems for affected persons.
+- Requires a technology authority that is strong but not policy-sovereign.
 
 ## v0.4 Recommendations
 
-TBD
+- Add aggregation/privacy standards for algorithmic metrics.
+- Add minimum audit-access contract clauses.
+- Add plain-language system-card summary requirement.
+- Add emergency technology sunset and reauthorization clause.
+- Add small-agency support program for compliance with high-risk technology rules.
 
 ---
 
@@ -706,27 +726,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- DLT Validator Composition Principles improve resistance to validator capture.
+- Metadata Privacy Audit directly addresses inference and reidentification risk.
+- Smart Contract Override Requirement prevents unstoppable code from exercising public authority.
+- Public Education clarifies that ledgers prove record history, not legal truth.
+- DLT Necessity and Sunset prevent blockchain overuse.
 
 ## Overcomplexity Risk
 
-TBD
+- DLT governance may be too technical for constitutional text.
+- Validator composition, metadata audits, and oracle accountability may require specialized statutes.
+- Ledger systems could distract from simpler public-record modernization.
 
 ## Contradictions / Overlap
 
-TBD
+- Ledger governance overlaps with Technology, Integrity, Fiscal, Election, and Public Accountability systems.
+- Legal Truth Supremacy overlaps with courts and correction rights.
+- Smart Contract Override overlaps with Technology Governance and Public Accountability.
 
 ## Abuse Scenarios
 
-TBD
+- Government adopts blockchain where an ordinary signed audit log would work.
+- Validator nodes are balanced formally but captured through vendor infrastructure.
+- Metadata reveals sensitive patterns despite off-chain storage.
+- Smart contracts execute based on false real-world certifications.
+- Election audit ledgers are used rhetorically to push unsafe online voting.
 
 ## Implementation Concerns
 
-TBD
+- Requires technical standards, procurement controls, and exit plans.
+- Requires public education to prevent blockchain mystique.
+- Requires constant privacy review as linkage risks evolve.
+- Requires strong “do not use blockchain” discipline.
 
 ## v0.4 Recommendations
 
-TBD
+- Move detailed validator composition into a DLT constitutional statute.
+- Add mandatory comparison against non-DLT alternatives before deployment.
+- Add recurring metadata reidentification audits.
+- Add explicit no-default-online-voting clause in election article as well.
+- Add ledger module retirement rule when simpler systems become better.
 
 ---
 
@@ -734,27 +773,45 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Tiered Major Law Review helps avoid one-size-fits-all review burden.
+- Forecast Accountability makes resilience institutions learn from prediction error.
+- Present Rights Priority remains a crucial protection against future-oriented austerity or delay.
+- The Resilience System is clearly advisory unless constitutional violation, emergency authority, or statutory trigger exists.
 
 ## Overcomplexity Risk
 
-TBD
+- Tiered review may become administratively complex.
+- Resilience review could still slow major legislation.
+- Forecast accountability may create incentives for cautious or vague forecasts.
 
 ## Contradictions / Overlap
 
-TBD
+- Resilience overlaps heavily with Fiscal Constitution, Emergency Powers, Technology, Public Health, Infrastructure, and Climate.
+- Future-generation review overlaps with intergenerational fiscal statements.
+- Present Rights Priority overlaps with rights and fiscal provisions.
 
 ## Abuse Scenarios
 
-TBD
+- Legislators ignore serious Resilience findings with shallow responses.
+- Resilience officials overclassify ordinary laws as major laws.
+- Future-generation arguments are selectively used against social spending but not favored subsidies.
+- Forecast failures are politicized to discredit necessary risk planning.
+- Resilience warnings are used to normalize permanent emergency posture.
 
 ## Implementation Concerns
 
-TBD
+- Requires technical modeling and public communication capacity.
+- Requires careful distinction between advisory risk review and binding constitutional review.
+- Requires metrics that do not punish honest uncertainty.
+- Requires coordination with fiscal scoring and emergency planning.
 
 ## v0.4 Recommendations
 
-TBD
+- Add requirement that high-severity Resilience findings receive substantive response, not boilerplate.
+- Add uncertainty disclosure standards for risk forecasts.
+- Add explicit ban on using Resilience review alone to activate emergency powers.
+- Add coordination rule with Fiscal Authority to prevent duplicated long-term review.
+- Add public risk literacy summaries for major findings.
 
 ---
 
@@ -762,27 +819,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Default Emergency Duration and Escalating Renewal Thresholds improve anti-normalization safeguards.
+- Renewal votes must be separately recorded and justified.
+- Classified Oversight Standards are materially stronger.
+- Post-Emergency Audit closes the loop.
+- Emergency Technology and Fiscal controls now align better with emergency governance.
 
 ## Overcomplexity Risk
 
-TBD
+- Emergency rules are procedurally dense.
+- In a genuine crisis, officials may struggle with compliance unless procedures are pre-built.
+- Classified oversight is difficult to explain publicly.
 
 ## Contradictions / Overlap
 
-TBD
+- Emergency Powers overlap with Executive, Resilience, Security, Technology, Fiscal, and Rights articles.
+- Emergency Council authority and emergency powers need consistent terminology.
+- Classified oversight overlaps with Security Neutrality and whistleblower provisions.
 
 ## Abuse Scenarios
 
-TBD
+- Emergency is repeatedly renewed through party discipline despite weak evidence.
+- Classified emergency programs avoid meaningful public scrutiny.
+- Emergency procurement is used for patronage.
+- Emergency technology is deployed provisionally and then never removed.
+- Normalcy restoration plans become formalities.
 
 ## Implementation Concerns
 
-TBD
+- Requires emergency calendars, review staff, classified oversight capacity, and public reporting templates before crisis.
+- Requires strong legislative independence during emergencies.
+- Requires courts capable of urgent review.
+- Requires post-crisis audit capacity.
 
 ## v0.4 Recommendations
 
-TBD
+- Add default maximum initial emergency period and renewal periods, even if adjustable by constitutional statute.
+- Require normalcy restoration benchmarks for renewals beyond a defined duration.
+- Add emergency public dashboard requirement.
+- Add explicit emergency procurement cross-reference.
+- Add independent review of classified emergency programs after declassification or risk reduction.
 
 ---
 
@@ -790,27 +866,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Fiscal Model Governance improves trust in scoring and forecasts.
+- Tax Expenditure Renewal Evidence prevents permanent hidden subsidies.
+- Local Fiscal Distress Support Rule makes local distress less punitive.
+- Fiscal transparency now covers assumptions, models, outcomes, and local capacity.
+- The fiscal design still resists becoming austerity machinery.
 
 ## Overcomplexity Risk
 
-TBD
+- The fiscal constitution is extensive and may require significant administrative capacity.
+- Fiscal tools could overwhelm smaller governments.
+- Public dashboards could become too technical.
 
 ## Contradictions / Overlap
 
-TBD
+- Fiscal review overlaps with Resilience, Public Accountability, Distributed Ledgers, Procurement, and Transition.
+- Stewardship Funding disputes overlap with courts and stewardship appointments.
+- Local Fiscal Distress overlaps with Capacity Gates and federalism.
 
 ## Abuse Scenarios
 
-TBD
+- Fiscal models are subtly biased through assumptions despite disclosure.
+- Tax expenditures are renewed with weak evidence due to lobbying pressure.
+- Local distress designation stigmatizes communities and reduces investment.
+- Stewardship funding protections are used to resist legitimate efficiency reviews.
+- Cost-of-inaction analysis is selectively applied.
 
 ## Implementation Concerns
 
-TBD
+- Requires strong fiscal data systems.
+- Requires independent model review capacity.
+- Requires local government financial reporting standards.
+- Requires public communication for budget complexity.
 
 ## v0.4 Recommendations
 
-TBD
+- Add public fiscal model audit schedule.
+- Add dashboard readability standards for fiscal tools.
+- Add local distress anti-stigma language.
+- Define Constitutional Function Funding dispute forum.
+- Add requirement to compare fiscal forecasts with actual outcomes.
 
 ---
 
@@ -818,27 +913,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Public Trust License criteria are now more objective and non-ideological.
+- Candidate and Official Compliance Assistance reduces elite-only compliance risk.
+- Risk-Tiered Post-Service Restrictions are more proportionate.
+- Anti-Evasion language addresses family, trusts, nonprofits, consulting vehicles, and shell structures.
+- Fiduciary duty remains clear and powerful.
 
 ## Overcomplexity Risk
 
-TBD
+- Public Trust License may still feel bureaucratic or exclusionary.
+- Disclosure and compliance burdens could deter ordinary candidates.
+- Anti-evasion investigations can become intrusive.
 
 ## Contradictions / Overlap
 
-TBD
+- Public Trust License overlaps with party eligibility, candidacy, stewardship appointments, and integrity enforcement.
+- Anti-evasion overlaps with beneficial ownership, lobbying, and conflict rules.
+- Term rotation overlaps with party governance and legislative structure.
 
 ## Abuse Scenarios
 
-TBD
+- Incumbents use licensing criteria to slow challengers.
+- Wealthy candidates hire compliance teams while ordinary candidates struggle.
+- Strategic advisors avoid revolving-door rules through vague job titles.
+- Officials shift interests to family entities or nonprofits.
+- Integrity bodies selectively enforce disclosure against political opponents.
 
 ## Implementation Concerns
 
-TBD
+- Requires public compliance assistance infrastructure.
+- Requires clear forms, cure periods, and appeal pathways.
+- Requires proportional privacy protection.
+- Requires balancing anti-corruption with open candidacy.
 
 ## v0.4 Recommendations
 
-TBD
+- Add “right to cure” for non-bad-faith Public Trust License defects.
+- Add candidate privacy standard: disclose material interests, not irrelevant personal details.
+- Add compliance safe harbor for good-faith complete filings.
+- Add public template disclosures.
+- Define offices requiring Public Trust License by risk schedule.
 
 ---
 
@@ -846,27 +960,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Anonymous and Vulnerable Speech protection is a major improvement.
+- Satire, parody, and artistic expression are clearly protected.
+- Independent Review reduces censorship risk.
+- Enforcement Transparency and Viewpoint Neutrality improve legitimacy.
+- Disclosure remains the default remedy.
 
 ## Overcomplexity Risk
 
-TBD
+- Distinguishing manipulation from protected anonymous speech is difficult.
+- Platform amplification transparency can be technically complex.
+- Independent review may be slow during election periods.
 
 ## Contradictions / Overlap
 
-TBD
+- Information Integrity overlaps with Party Governance, Election Administration, Security, Foreign Influence, and Public Accountability.
+- Anonymous speech protection may conflict with funding transparency.
+- Synthetic media rules may overlap with satire protections.
 
 ## Abuse Scenarios
 
-TBD
+- Government labels coordinated protest as coordinated inauthentic behavior.
+- Platforms suppress lawful speech to avoid compliance risk.
+- Disclosure laws expose vulnerable dissidents.
+- Foreign-linked rules are selectively applied to diaspora communities.
+- Synthetic-media labels are applied to satire or artistic commentary.
 
 ## Implementation Concerns
 
-TBD
+- Requires independent review capacity with election-speed timelines.
+- Requires technical expertise in platform systems and synthetic media.
+- Requires viewpoint-neutral enforcement statistics.
+- Requires public education around disclosure versus censorship.
 
 ## v0.4 Recommendations
 
-TBD
+- Add election-period accelerated review for information-integrity disputes.
+- Add vulnerable-speaker exemption process from public disclosure where safety risk is high and funding/control concerns are low.
+- Add clear distinction between coordinated inauthentic behavior and coordinated lawful organizing.
+- Add platform due-process requirements for politically significant takedowns where state action is involved.
+- Cross-reference Party Finance and Foreign Influence rules.
 
 ---
 
@@ -874,27 +1007,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Election-Period Security Neutrality is a strong addition.
+- Domestic Deployment standards improve control of coercive power.
+- Classified Whistleblower Process strengthens internal correction.
+- Security Transparency improves public accountability.
+- Lawful Command clearly distinguishes constitutional authority from partisan orders.
 
 ## Overcomplexity Risk
 
-TBD
+- Security governance is necessarily complex.
+- Public reporting may be limited by legitimate security needs.
+- Classified whistleblower systems require high trust and robust process.
 
 ## Contradictions / Overlap
 
-TBD
+- Security overlaps with Emergency Powers, Information Integrity, Rights, Courts, and Transition.
+- Election-period security rules overlap with Democratic System and Election Stewardship.
+- Classified whistleblowing overlaps with Integrity whistleblower rules.
 
 ## Abuse Scenarios
 
-TBD
+- Executive issues formally lawful but substantively partisan deployment orders.
+- Security forces monitor political actors under broad threat claims.
+- Intelligence agencies overclassify unlawful conduct.
+- Whistleblowers are punished for using the wrong channel.
+- Election-period deployments chill participation.
 
 ## Implementation Concerns
 
-TBD
+- Requires trusted classified oversight bodies.
+- Requires clear escalation for unlawful orders.
+- Requires training throughout security institutions.
+- Requires public reporting that protects security while preserving accountability.
 
 ## v0.4 Recommendations
 
-TBD
+- Add unlawful-order refusal protection for security personnel.
+- Add election-period deployment notification to Election Stewardship.
+- Add independent review of political surveillance requests.
+- Add classified whistleblower appeal path.
+- Add domestic deployment expiration and renewal rules.
 
 ---
 
@@ -902,27 +1054,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Default Amendment Thresholds add structure without hard-coding all numbers.
+- Refounding Procedure is much clearer.
+- Amendment Integrity adds disclosure of sponsors, draft sources, fiscal impact, rights impact, party effects, and influence records.
+- Emergency Amendment Limit remains strong.
+- Public Amendment Guides improve public understanding.
 
 ## Overcomplexity Risk
 
-TBD
+- Amendment procedures are now intricate.
+- Too much procedural complexity could make legitimate reform difficult.
+- Review before adoption could politicize courts or review bodies.
 
 ## Contradictions / Overlap
 
-TBD
+- Amendment Classification Review overlaps with Kernel Classification and Judicial Review.
+- Election and power rules overlap with Party Governance and Electoral System articles.
+- Refounding overlaps with Transition and Kernel articles.
 
 ## Abuse Scenarios
 
-TBD
+- Governing bloc classifies power-rule changes as ordinary policy.
+- Courts overuse Kernel protection to block legitimate reforms.
+- Emergency continuity exception is stretched to benefit incumbents.
+- Public amendment guides are biased or incomplete.
+- Refounding process is captured by organized elites.
 
 ## Implementation Concerns
 
-TBD
+- Requires clear public timelines.
+- Requires neutral explanatory materials.
+- Requires review bodies with legitimacy.
+- Requires protection against procedural gamesmanship.
 
 ## v0.4 Recommendations
 
-TBD
+- Add amendment timeline defaults.
+- Add independent public guide preparation process.
+- Add public challenge period before amendment votes.
+- Add rule that Amendment Classification Review must be expedited.
+- Add civic participation requirements for refounding.
 
 ---
 
@@ -930,27 +1101,47 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Transition Readiness Certifier improves accountability.
+- Milestone Deadlines prevent indefinite delay.
+- Legacy Handover addresses sabotage by existing institutions.
+- Service Continuity During Technology Freeze prevents rights/service breakdown.
+- Public Comprehension Review directly supports democratic legitimacy.
+- Transition Review Cycle keeps phases readiness-based.
 
 ## Overcomplexity Risk
 
-TBD
+- Transition article is now highly detailed.
+- Transition could become over-bureaucratized.
+- Readiness certification itself could become a veto point.
 
 ## Contradictions / Overlap
 
-TBD
+- Transition Readiness overlaps with Capacity Gates, Public Interface, Courts, Fiscal Baseline, and Technology Freeze.
+- Legacy Handover overlaps with Public Accountability and Distributed Ledger records.
+- First Election Stabilization overlaps with Electoral System.
 
 ## Abuse Scenarios
 
-TBD
+- Incumbents delay readiness certification.
+- Transition bodies gain de facto power by controlling sequencing.
+- Legacy agencies hide contracts, algorithms, debt, or records.
+- Public comprehension review is underfunded or treated as symbolic.
+- Technology freeze disrupts public services without continuity plans.
 
 ## Implementation Concerns
 
-TBD
+- Requires phased governance office, public dashboards, legal authority, funding, and staff.
+- Requires careful separation between transition coordination and constitutional substance.
+- Requires public education and service continuity.
+- Requires enforcement against legacy obstruction.
 
 ## v0.4 Recommendations
 
-TBD
+- Define Transition Readiness Certifier appointment and limits.
+- Add readiness appeal path.
+- Add default transition milestone schedule or requirement for public statutory schedule.
+- Add penalties for bad-faith legacy handover obstruction.
+- Add public transition help desk and local outreach requirement.
 
 ---
 
