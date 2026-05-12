@@ -1915,6 +1915,8 @@ Fiscal governance is truth machinery, not austerity machinery.
 
 Public office is a fiduciary trust, not private property.
 
+Public authority shall be exercised for the public good, under law, and subject to accountability.
+
 ## Section 2. Public Service Standards
 
 Officials may be required to comply with conflict disclosures, asset disclosures, ethics training, constitutional training, blind trusts or index-only holding rules, stock-trading restrictions, gift bans, revolving-door restrictions, and public integrity oaths.
@@ -1927,21 +1929,69 @@ Conflict disclosure may include beneficial ownership, affiliated entities, famil
 
 The Commonwealth may impose executive term limits, consecutive legislative term limits, committee leadership rotation, party leadership rotation for public funding eligibility, stewardship office staggered terms, and cooling-off periods before lobbying.
 
+Term and rotation rules shall be designed to prevent permanent ownership of public office without destroying institutional knowledge.
+
 ## Section 5. Public Trust License
 
 Certain high offices may require a Public Trust License based on constitutional knowledge, ethics certification, conflict disclosure, audit agreement, anti-corruption oath, and post-service limits.
 
 The license may not exclude candidates based on ideology alone.
 
-## Section 6. Licensing Due Process
+## Section 6. Public Trust License Objective Criteria
 
-Public Trust License denial, suspension, or revocation shall include notice, reason, cure opportunity where appropriate, appeal, and ideological neutrality.
+Public Trust License criteria shall be objective, public, non-ideological, and limited to:
 
-## Section 7. Revolving Door
+1. constitutional process knowledge;
+2. ethics and conflicts compliance;
+3. required disclosures;
+4. fiduciary-duty certification;
+5. anti-corruption oath;
+6. audit agreement;
+7. post-service restriction acknowledgment;
+8. minimum competence for offices with high fiduciary, emergency, security, technology, election, or fiscal authority.
+
+## Section 7. Licensing Due Process
+
+Public Trust License denial, suspension, or revocation shall include:
+
+1. notice;
+2. reasoned explanation;
+3. cure opportunity where appropriate;
+4. appeal;
+5. proportional remedy;
+6. ideological neutrality.
+
+## Section 8. Candidate and Official Compliance Assistance
+
+The Commonwealth shall provide reasonable compliance assistance for candidates and officials subject to disclosure, ethics, or Public Trust License requirements.
+
+Compliance systems shall not be designed so that only wealthy, incumbent, or professionally connected candidates can realistically comply.
+
+## Section 9. Revolving Door
 
 Post-service restrictions may include lobbying, access brokerage, paid strategic advising, vendor employment, regulated-sector employment, and shadow lobbying related to former authority.
 
----
+## Section 10. Risk-Tiered Post-Service Restrictions
+
+Post-service limits shall scale with the risk of the office held.
+
+Higher restrictions may apply to offices involving:
+
+1. procurement;
+2. regulation;
+3. public technology;
+4. emergency powers;
+5. national security;
+6. public finance;
+7. election administration;
+8. integrity enforcement;
+9. adjudication.
+
+Restrictions shall remain proportionate and shall not operate as unreasonable exclusion from ordinary livelihood.
+
+## Section 11. Anti-Evasion
+
+Public service integrity rules apply to indirect arrangements, including family intermediaries, beneficial owners, affiliated entities, consulting vehicles, nonprofits, trusts, shell entities, and paid advisory structures where used to evade conflict, lobbying, or post-service restrictions.
 
 # Article XXI — Information Integrity
 
@@ -1967,11 +2017,29 @@ Suppression shall be limited to narrow unlawful categories defined by law and su
 
 Information-integrity rules shall not discriminate based on lawful viewpoint.
 
-## Section 6. Limit
+## Section 6. Anonymous and Vulnerable Speech
+
+The Commonwealth shall protect lawful anonymous, pseudonymous, unpopular, minority, dissident, or vulnerable-speaker expression.
+
+Disclosure may be required only where constitutionally justified by funding transparency, foreign control, fraud, coordinated inauthentic conduct, public-office conflict, election integrity, or other lawful basis.
+
+## Section 7. Satire, Parody, and Artistic Expression
+
+Satire, parody, artistic expression, commentary, and obvious expressive manipulation shall not be treated as unlawful deception solely because synthetic or altered media is used.
+
+Reasonable labeling may be required for materially deceptive political communication where lawful, proportionate, and viewpoint-neutral.
+
+## Section 8. Independent Review
+
+Major information-integrity enforcement affecting political speech, election communication, platform access, media ownership, synthetic media, or foreign-linked communication shall be subject to independent review and appeal.
+
+## Section 9. Enforcement Transparency
+
+Information-integrity enforcement bodies shall publish viewpoint-neutral enforcement statistics, lawful privacy limits permitting.
+
+## Section 10. Limit
 
 The state shall not create a monopoly on truth.
-
----
 
 # Article XXII — Security Neutrality
 
@@ -1987,19 +2055,53 @@ Security forces owe obedience to constitutional authority, not personal, partisa
 
 Security forces may not serve a party, interfere in elections, intimidate opposition, suppress lawful protest, conduct unlawful surveillance, or enforce emergency orders beyond legal scope.
 
-## Section 4. Surveillance
+## Section 4. Election-Period Security Neutrality
+
+During election periods, security forces shall operate under heightened neutrality protocols.
+
+Such protocols shall include:
+
+1. prohibition on partisan deployment;
+2. prohibition on voter intimidation;
+3. public reporting of extraordinary deployments where lawful;
+4. election-stewardship notification;
+5. judicial review access;
+6. protection of lawful campaign and opposition activity;
+7. strict limits on surveillance of political actors.
+
+## Section 5. Domestic Deployment
+
+Domestic deployment of military, intelligence, emergency, or extraordinary security forces requires legal authority, defined scope, duration limit, responsible command, rights safeguards, and review.
+
+Domestic deployment may not be used to suppress lawful opposition, protest, voting, journalism, or political organization.
+
+## Section 6. Surveillance
 
 Surveillance shall require legal authority, court supervision where required, minimization, audit, and remedy for abuse.
 
-## Section 5. Oversight
+## Section 7. Oversight
 
 Security institutions are subject to legislative oversight, judicial review, inspector oversight, whistleblower protection, public reporting where security permits, and strict domestic deployment rules.
 
-## Section 6. Security Whistleblowers
+## Section 8. Security Whistleblowers
 
 Security personnel shall have protected channels for reporting unlawful orders, illegal surveillance, election interference, corruption, abuse, or emergency overreach, subject to lawful classified-handling safeguards.
 
----
+## Section 9. Classified Whistleblower Process
+
+Classified whistleblower channels shall provide:
+
+1. protected recipients;
+2. secure submission;
+3. anti-retaliation protection;
+4. independent review;
+5. lawful handling of classified information;
+6. escalation where internal channels fail;
+7. protection against punishment for good-faith use of lawful channels.
+
+## Section 10. Security Transparency
+
+The Commonwealth shall publish periodic transparency reports concerning surveillance, domestic deployment, election-period security activity, emergency security powers, and rights-impacting security operations, subject to lawful security limits.
 
 # Article XXIII — Amendment Rules
 
@@ -2022,29 +2124,60 @@ Changes to election rules, party rules, districting, office powers, court struct
 3. public plain-language impact statement;
 4. delayed effect after an intervening election.
 
-## Section 4. Amendment Classification Review
+## Section 4. Default Amendment Thresholds
+
+Unless otherwise specified by constitutional statute consistent with this Constitution:
+
+1. ordinary policy may pass by ordinary legislative majority;
+2. major statutory architecture requires enhanced legislative approval;
+3. election and power rules require enhanced approval and delayed effect;
+4. framework amendments require supermajority and public ratification or regional ratification;
+5. Kernel alteration requires full constitutional refounding.
+
+Constitutional statute shall define exact thresholds, but thresholds may not be designed to permit self-dealing by a temporary governing bloc.
+
+## Section 5. Amendment Classification Review
 
 Disputes over amendment category shall be reviewable before constitutional adoption.
 
-## Section 5. Framework Amendments
+The reviewing body shall consider whether the proposal affects ordinary policy, major statutory architecture, election and power rules, framework structure, or the Democratic Kernel.
+
+## Section 6. Framework Amendments
 
 Framework amendments require supermajority, election delay, public referendum or regional ratification, and rights review.
 
-## Section 6. Kernel Protection
+## Section 7. Kernel Protection
 
 The Democratic Kernel may not be removed through ordinary amendment.
 
 Full constitutional refounding is required to alter the Kernel.
 
-## Section 7. Emergency Amendment Limit
+## Section 8. Refounding Procedure
+
+A constitutional refounding process must include:
+
+1. public notice;
+2. public deliberation;
+3. representative or civic convention process;
+4. rights continuity;
+5. independent legal review;
+6. public explanation;
+7. supermajority approval;
+8. public ratification;
+9. transition safeguards;
+10. no emergency shortcut.
+
+## Section 9. Emergency Amendment Limit
 
 Emergency conditions shall not be used to alter election or power rules except for narrow continuity measures subject to review and delayed self-dealing protections.
 
-## Section 8. Public Amendment Guides
+## Section 10. Public Amendment Guides
 
 All proposed amendments shall be accompanied by plain-language public explanation.
 
----
+## Section 11. Amendment Integrity
+
+Amendment processes shall disclose sponsors, draft language sources, fiscal impact, rights impact, party effects, and any material influence records required by law.
 
 # Article XXIV — Transition and Implementation
 
@@ -2078,7 +2211,7 @@ Existing lawful institutions shall continue performing essential functions until
 
 ## Section 5. Transition Anti-Sabotage
 
-Bad-faith delay, defunding, disabling, or manipulation of constitutionally required transition duties shall be reviewable and correctable.
+Bad-faith delay, defunding, disabling, withholding records, obstructing migration, hiding public systems, or manipulating constitutionally required transition duties shall be reviewable and correctable.
 
 ## Section 6. Transition Authority Limitation
 
@@ -2090,25 +2223,57 @@ They may not rewrite constitutional substance, suspend rights, alter election ou
 
 Every transition step shall be published with responsible office, legal authority, deadline, status, budget, dependencies, risks, delay explanation if any, appeal path, and next review date.
 
-## Section 8. Readiness Certification
+## Section 8. Transition Readiness Certifier
+
+Constitutional statute shall designate a Transition Readiness Certifier or certification process.
+
+The certifier shall be independent, public, reviewable, and barred from rewriting constitutional substance.
+
+Readiness certification may be challenged where it is arbitrary, captured, incomplete, or rights-threatening.
+
+## Section 9. Readiness Certification
 
 Each phase shall receive readiness certification before full activation.
 
 Readiness shall consider legal completion, rights impact, fiscal readiness, institutional capacity, local capacity, technology readiness, court capacity, public interface readiness, unresolved disputes, and public understanding.
 
-## Section 9. Technology Freeze and Register
+## Section 10. Milestone Deadlines
+
+Each transition phase shall include public milestone deadlines.
+
+Missed deadlines require public explanation, corrective plan, and review for delay, incapacity, or sabotage.
+
+## Section 11. Legacy Handover
+
+Legacy institutions shall preserve and transfer required records, data, contracts, budgets, algorithms, pending cases, audit trails, and operational knowledge.
+
+Bad-faith withholding, destruction, concealment, or manipulation of legacy records shall trigger integrity review and legal remedy.
+
+## Section 12. Technology Freeze and Register
 
 High-risk public algorithms, databases, and vendor systems shall be frozen, registered, risk-classified, audited, and assigned accountable owners before migration or expansion.
 
-## Section 10. First Election Stabilization
+## Section 13. Service Continuity During Technology Freeze
+
+Technology freeze or migration shall include service-continuity plans so that benefits, rights, public services, courts, elections, and emergency functions do not fail because of system review.
+
+## Section 14. First Election Stabilization
 
 The first election under the new electoral design shall include readiness certification, public voter education, sample ballots, district map challenge period, party compliance audit, election technology audit, dispute calendar, public certification timeline, and post-election audit.
 
-## Section 11. Civic Translation
+## Section 15. Public Comprehension Review
+
+Before the first electoral transition cycle, the Commonwealth shall conduct public comprehension review assessing whether voters can reasonably understand ballot structure, party roles, coalition formation, appeal routes, and public accountability tools.
+
+## Section 16. Civic Translation
 
 Every transition phase shall include plain-language guidance explaining what changes, who is responsible, how to challenge decisions, and where to get help.
 
----
+## Section 17. Transition Review Cycle
+
+Each phase shall be reviewed before the next phase fully activates.
+
+Review shall assess rights continuity, fiscal readiness, public understanding, institutional capacity, local capacity, technology readiness, court capacity, public interface readiness, unresolved disputes, and sabotage risks.
 
 # Closing Clause
 
