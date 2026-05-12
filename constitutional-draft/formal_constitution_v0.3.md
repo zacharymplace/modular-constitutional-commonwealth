@@ -534,6 +534,8 @@ National uniformity beyond minimum floors requires a public Uniformity Necessity
 6. fiscal integrity;
 7. constitutional duty.
 
+A Uniformity Necessity Finding must explain why minimum floors are insufficient and why variation would defeat the constitutional purpose.
+
 ## Section 5. Subsidiarity Review
 
 Lower governments may challenge national overreach through constitutional review.
@@ -565,7 +567,45 @@ State, regional, local, and stewardship nodes may not receive full constitutiona
 
 Where capacity is lacking, higher-level support nodes may temporarily assist.
 
----
+## Section 7. Capacity Metrics Requirement
+
+Capacity shall be assessed through public metrics defined by constitutional statute.
+
+Capacity metrics shall include, where relevant:
+
+1. trained responsible officials;
+2. functional budget;
+3. public records capacity;
+4. appeal and complaint processing;
+5. audit access;
+6. technology security;
+7. accessibility;
+8. non-digital access;
+9. continuity planning;
+10. rights-remedy capacity;
+11. public-service performance;
+12. local fiscal condition.
+
+## Section 8. Support Node Exit Plan
+
+Where a higher-level support node temporarily assists or performs a lower-level function due to capacity failure, the support arrangement must include:
+
+1. public legal basis;
+2. defined scope;
+3. capacity-building plan;
+4. rights safeguards;
+5. local participation;
+6. review date;
+7. exit criteria;
+8. appeal or challenge path.
+
+Support-node intervention shall not become permanent centralization unless separately authorized through constitutional process.
+
+## Section 9. Capacity Findings
+
+Capacity findings must be public, reasoned, time-bounded, and reviewable.
+
+A finding of incapacity shall not be used to punish a local community, suppress lawful local self-government, or reduce the rights of affected persons.
 
 # Article VI — The Five Constitutional Systems
 
@@ -605,7 +645,28 @@ A lead-system designation may be challenged where it appears designed to evade r
 
 Where multiple systems could lead, lead responsibility shall be assigned according to the primary harm or authority at issue, including rights, elections, technology, agency action, fiscal authority, emergency power, or constitutional framework.
 
-## Section 6. Public Jurisdiction Maps
+## Section 6. Emergency Provisional Lead Assignment
+
+Where urgent harm requires immediate action and lead-system responsibility is disputed, a provisional lead may be assigned for temporary action.
+
+A provisional lead assignment must be:
+
+1. public where possible;
+2. time-limited;
+3. reviewable;
+4. narrowly scoped;
+5. subject to correction;
+6. followed by final lead assignment review.
+
+A provisional assignment shall not be used to evade rights, integrity, technology, fiscal, emergency, or federalism review.
+
+## Section 7. Joint Review for Equal Multi-System Harm
+
+Where two or more systems are equally and materially implicated, constitutional statute may provide joint review panels.
+
+A joint review panel must still identify one public accountable owner for implementation and public communication.
+
+## Section 8. Public Jurisdiction Maps
 
 Each system shall publish plain-language maps showing:
 
@@ -616,7 +677,17 @@ Each system shall publish plain-language maps showing:
 5. how to audit;
 6. how state and local nodes connect.
 
----
+## Section 9. Jurisdiction Map Audit
+
+Public jurisdiction maps shall be audited for accuracy, usability, accessibility, non-digital availability, and timeliness.
+
+Maps shall identify accountable offices, not merely broad systems.
+
+## Section 10. Wrong-Door Transfer
+
+A person who makes a good-faith filing, appeal, complaint, or request through the wrong system or office shall not lose rights or remedies solely because of the filing location.
+
+The receiving office must transfer or route the matter to the proper forum where the claim is timely and plausible.
 
 # Article VII — Democratic System
 
@@ -643,27 +714,60 @@ The Commonwealth shall use mixed-member proportional representation unless amend
 
 The electoral system shall include:
 
-1. local representation;
-2. proportional correction;
-3. independent boundary drawing;
-4. fair ballot access;
-5. public party role assignment;
-6. public coalition disclosure;
-7. delayed self-dealing protection.
+1. two votes where constitutionally practicable;
+2. local representation;
+3. proportional correction;
+4. independent boundary drawing;
+5. fair ballot access;
+6. public party role assignment;
+7. public coalition disclosure;
+8. delayed self-dealing protection.
 
 Final parameters shall be defined by constitutional statute.
 
-## Section 4. Parameter Safeguards
+## Section 4. Minimum Electoral Guarantees
+
+The electoral system shall preserve:
+
+1. meaningful local representation;
+2. proportional correction sufficient to prevent systematic distortion;
+3. realistic opportunity for emergent parties;
+4. protected opposition rights;
+5. public party status ledgers;
+6. independent election administration;
+7. transparent districting;
+8. public explanation of ballot mechanics.
+
+## Section 5. Parameter Safeguards
 
 Changes to district/list ratio, thresholds, list rules, party finance, districting, coalition rules, or public funding rules shall follow election and power rule safeguards.
 
-## Section 5. Citizen Participation
+## Section 6. Electoral Parameter Review
+
+After the first two election cycles under a major electoral design, the Democratic System shall conduct a public Electoral Parameter Review.
+
+The review shall assess:
+
+1. proportionality;
+2. governability;
+3. party competition;
+4. emergent-party access;
+5. regional representation;
+6. voter comprehension;
+7. ballot usability;
+8. coalition formation;
+9. district fairness;
+10. public trust.
+
+The review may recommend parameter changes, but changes to election and power rules remain subject to enhanced constitutional safeguards.
+
+## Section 7. Citizen Participation
 
 The Democratic System may use citizen assemblies, public comment periods, civic forums, referendums for constitutional questions, petitions, and public consultation.
 
 Citizen participation supplements representative government. It does not replace rights, courts, elections, or lawful institutions.
 
-## Section 6. Citizen Participation Standards
+## Section 8. Citizen Participation Standards
 
 Citizen participation mechanisms shall include integrity standards appropriate to their role, including where relevant:
 
@@ -676,7 +780,22 @@ Citizen participation mechanisms shall include integrity standards appropriate t
 7. clear legal effect;
 8. protection against capture.
 
----
+## Section 9. Citizen Assembly Integrity Rule
+
+Citizen assemblies used for high-impact public questions shall include:
+
+1. fair selection or sortition safeguards;
+2. conflict rules;
+3. participant support;
+4. public mandate;
+5. balanced briefing materials;
+6. independent facilitation;
+7. public report;
+8. clear statement of legal effect.
+
+## Section 10. Referendum Rights Limit
+
+Referendums, initiatives, or direct public votes may not override the Democratic Kernel, rights floor, due process, equal citizenship, lawful opposition, judicial independence, or peaceful transfer of power.
 
 # Article VIII — Party Power Roles
 
@@ -708,19 +827,25 @@ The Opposition Power is the largest non-governing party or coalition.
 
 It receives protected authority to audit, investigate, question, challenge, publish minority reports, participate in emergency review, and access budget and government information.
 
-## Section 4. Plurality Power
+## Section 4. Confidence-and-Supply Status
+
+A party or bloc that enters a formal confidence-and-supply arrangement with the Governing Power shall not automatically qualify as Opposition Power.
+
+Constitutional statute shall define how confidence-and-supply affects Opposition, Plurality, and Emergent classification.
+
+## Section 5. Plurality Power
 
 Plurality Power belongs to qualifying minority blocs beyond the principal opposition.
 
 It broadens debate and receives agenda time, proportional committee participation, minority impact statement rights, and review-trigger authority where defined by law.
 
-## Section 5. Emergent Power
+## Section 6. Emergent Power
 
 Emergent Power protects new, regional, reformist, or growing parties.
 
 It provides lawful paths to ballot access, debate access, limited public funding, and progression into Plurality Power.
 
-## Section 6. Stewardship Power
+## Section 7. Stewardship Power
 
 Stewardship Power is nonpartisan.
 
@@ -728,11 +853,28 @@ It protects elections, courts, public audit, integrity systems, technology gover
 
 Stewardship protects the democratic game. It does not play the game.
 
-## Section 7. Enforcement
+## Section 8. Party Role Assignment
+
+Party roles shall be assigned by public support, coalition status, electoral results, common-control findings, constitutional compliance, and public qualification thresholds.
+
+Constitutional statute shall define thresholds and procedures for:
+
+1. Governing Power;
+2. Opposition Power;
+3. Plurality Power;
+4. Emergent Power;
+5. provisional status during dispute;
+6. appeal.
+
+## Section 9. Provisional Party Role Assignment
+
+After certified election results, the Democratic System shall issue provisional party role assignments within a defined period.
+
+Provisional assignments shall govern public accountability, debate, funding, committee participation, and coalition transparency until final assignment or lawful correction.
+
+## Section 10. Enforcement
 
 Violation of Governing, Opposition, Plurality, or Emergent rights may be challenged before the Election and Party Court or Constitutional Court where appropriate.
-
----
 
 # Article IX — Party Governance Guardrails
 
@@ -748,7 +890,26 @@ No fixed set of parties may become permanent constitutional gatekeepers.
 
 Parties may be treated as affiliated if they share material funding, leadership, vendors, data systems, donor networks, candidate pipelines, strategic control, or other evidence of common political control.
 
-## Section 4. Common Control Process
+## Section 4. Common Control Evidence Standard
+
+A common-control finding must be based on substantial evidence of material shared control, coordination, or dependency.
+
+Relevant evidence may include:
+
+1. shared major funders;
+2. shared executive leadership;
+3. shared vendors;
+4. shared data infrastructure;
+5. coordinated candidate placement;
+6. undisclosed coalition agreements;
+7. common strategic direction;
+8. shared policy-drafting infrastructure;
+9. recurring leadership exchange;
+10. concealed financial dependency.
+
+Ideological similarity alone is insufficient.
+
+## Section 5. Common Control Process
 
 Common-control findings require:
 
@@ -758,13 +919,23 @@ Common-control findings require:
 4. appeal path;
 5. proportionate remedy.
 
-## Section 5. Proportional Leverage
+## Section 6. Provisional Status During Appeal
+
+Where a party-status, common-control, funding, debate-access, or party-role finding is appealed, constitutional statute shall provide provisional treatment that preserves democratic competition while preventing evasion.
+
+## Section 7. Common Control Remedies
+
+Common-control remedies may include aggregation for public funding, debate access, committee allocation, Plurality Power qualification, Emergent Power qualification, or coalition leverage calculation.
+
+A common-control finding shall not automatically dissolve a party or suppress lawful political association.
+
+## Section 8. Proportional Leverage
 
 Coalition influence shall remain broadly proportional to public support.
 
 Minority parties may shape government. They may not use coalition leverage to obtain control over constitutional machinery, including elections, courts, integrity systems, technology stewardship, fiscal scoring, emergency renewal, or constitutional appointments.
 
-## Section 6. Public Party Status Ledger
+## Section 9. Public Party Status Ledger
 
 After every election or coalition change, the Commonwealth shall publish a plain-language Public Party Status Ledger showing:
 
@@ -781,13 +952,17 @@ After every election or coalition change, the Commonwealth shall publish a plain
 
 The Ledger shall be published within a defined period after certification or coalition change and shall be subject to appeal.
 
-## Section 7. Ideological Neutrality
+## Section 10. Coalition Side Agreement Disclosure
+
+Coalition agreements and material side agreements affecting offices, budgets, committee control, appointments, public funding, procurement, regional concessions, or constitutional procedure must be disclosed.
+
+Secret coalition terms affecting public authority are unenforceable and subject to integrity review.
+
+## Section 11. Ideological Neutrality
 
 Party regulation may target corruption, coercion, violence, foreign control, shell-party manipulation, election sabotage, refusal of lawful transfer, and anti-constitutional action.
 
 It may not suppress lawful dissent, unpopular ideology, peaceful radicalism, criticism of government, or constitutional reform advocacy alone.
-
----
 
 # Article X — Legislature
 
