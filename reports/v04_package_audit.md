@@ -8,11 +8,11 @@ Package audited: `constitutional-draft/formal_constitution_v0.4/`
 
 | File | Lines | Status |
 |---|---:|---|
-| `README.md` | 25 | present |
-| `index.md` | 218 | present |
-| `core_constitution.md` | 708 | present |
-| `cross_reference_matrix.md` | 157 | present |
-| `schedules/schedule_a_definitions_and_tests.md` | 4 | schedule |
+| `README.md` | 25 | package |
+| `index.md` | 218 | package |
+| `core_constitution.md` | 708 | package |
+| `cross_reference_matrix.md` | 157 | package |
+| `schedules/schedule_a_definitions_and_tests.md` | 600 | schedule |
 | `schedules/schedule_b_electoral_parameters.md` | 597 | schedule |
 | `schedules/schedule_c_party_governance.md` | 851 | schedule |
 | `schedules/schedule_d_stewardship_appointments.md` | 813 | schedule |
@@ -44,42 +44,23 @@ None.
 
 ## Content Issues
 
-### `core_constitution.md` — smart quote (6)
-
-- line 24: `The purpose of this Constitution is to preserve the people’s lawful power to correct, reform, restrain, and replace their government.`
-- line 26: `The Commonwealth’s shortest promise is:`
-- line 58: `No institution, party, official, emergency power, algorithm, donor network, security force, private entity, foreign actor, vendor, contractor, public-private partnership, or expert body may permanently remove the people’s ability to vote, organize, oppose, challenge, reform, and replace public power through lawful means.`
-- line 317: `1. the People’s Chamber;`
-- line 321: `## Section 2. People’s Chamber`
-- line 323: `The People’s Chamber provides population-based representation and ordinary legislative authority.`
-
-### `schedules/schedule_a_definitions_and_tests.md` — Scaffold only (1)
+### `implementation-codes/public_interface_code.md` - Scaffold only (1)
 
 - line 4: `Scaffold only.`
 
-### `schedules/schedule_d_stewardship_appointments.md` — smart quote (3)
-
-- line 61: `1. People’s Chamber;`
-- line 122: `Before confirmation, each nominee’s public file shall include:`
-- line 222: `\| People’s Chamber cross-bloc process \| 25% \|`
-
-### `implementation-codes/public_interface_code.md` — Scaffold only (1)
+### `implementation-codes/procurement_code.md` - Scaffold only (1)
 
 - line 4: `Scaffold only.`
 
-### `implementation-codes/procurement_code.md` — Scaffold only (1)
+### `implementation-codes/algorithmic_audit_code.md` - Scaffold only (1)
 
 - line 4: `Scaffold only.`
 
-### `implementation-codes/algorithmic_audit_code.md` — Scaffold only (1)
+### `implementation-codes/fiscal_reporting_code.md` - Scaffold only (1)
 
 - line 4: `Scaffold only.`
 
-### `implementation-codes/fiscal_reporting_code.md` — Scaffold only (1)
-
-- line 4: `Scaffold only.`
-
-### `implementation-codes/transition_implementation_code.md` — Scaffold only (1)
+### `implementation-codes/transition_implementation_code.md` - Scaffold only (1)
 
 - line 4: `Scaffold only.`
 
@@ -96,6 +77,8 @@ None.
 
 ## Summary
 
-Audit result: ACTION REQUIRED.
+Audit result: PASS WITH EXPECTED IMPLEMENTATION SCAFFOLDS.
 
 Known expected remaining work: populate implementation codes.
+Schedule A is now populated.
+Core, schedules, system charters, cross-reference matrix, and package index are present.
