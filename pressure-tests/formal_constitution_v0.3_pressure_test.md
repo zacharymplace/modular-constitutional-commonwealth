@@ -351,27 +351,45 @@ Each test area should answer:
 
 ## v0.3 Improvements
 
-TBD
+- v0.3 strengthens the electoral design by adding minimum electoral guarantees.
+- It clarifies that mixed-member proportional representation must include proportional correction, independent boundaries, fair ballot access, public party role assignment, coalition disclosure, and delayed self-dealing protection.
+- Electoral Parameter Review after two cycles is a strong adaptive mechanism.
+- Citizen Assembly Integrity Rule improves legitimacy and reduces capture.
+- Referendum Rights Limit protects the Kernel and rights floor from majoritarian override.
 
 ## Overcomplexity Risk
 
-TBD
+- The electoral system is now more robust but also more difficult to explain.
+- Voters must understand local vote, party vote, proportional correction, coalitions, party roles, and public ledgers.
+- Citizen participation mechanisms add democratic legitimacy but can create procedural fatigue if overused.
 
 ## Contradictions / Overlap
 
-TBD
+- Electoral Parameter Review overlaps with Democratic System review, Public Party Status Ledger, and Transition first-election review.
+- Citizen Assembly Integrity overlaps with Civic Review Mechanism.
+- Referendum Rights Limit overlaps with Kernel and Rights articles, but this is appropriate.
 
 ## Abuse Scenarios
 
-TBD
+- Incumbents preserve MMP in name but manipulate thresholds, list rules, or district ratio.
+- Electoral Parameter Review is used to justify changes that benefit current parties.
+- Citizen assemblies are convened with biased briefing materials or narrow mandates.
+- Referendums are framed to pressure courts or minority rights indirectly.
+- Voter education is underfunded, causing public confusion and mistrust.
 
 ## Implementation Concerns
 
-TBD
+- Requires major civic education, election administration training, ballot design, and public simulations.
+- Independent boundary drawing and proportional correction rules need technical capacity.
+- Public trust depends on the first two election cycles being well-managed.
 
 ## v0.4 Recommendations
 
-TBD
+- Add a **Ballot Comprehension Standard** before major electoral changes.
+- Require independent public testing of ballot design and voter materials.
+- Define minimum review criteria for Electoral Parameter Review to prevent self-serving changes.
+- Add public simulation requirements before first use of a new electoral formula.
+- Cross-reference First Election Stabilization Protocol in the Transition article.
 
 ---
 
@@ -379,27 +397,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- v0.3 clarifies Stewardship Power as a nonpartisan constitutional function, not a party role.
+- Confidence-and-Supply Status addresses ambiguity around Opposition classification.
+- Provisional Party Role Assignment prevents post-election uncertainty.
+- Common Control Evidence Standard is stronger and protects against fake pluralism.
+- Coalition Side Agreement Disclosure closes a major backroom-governance loophole.
 
 ## Overcomplexity Risk
 
-TBD
+- Party classification is now legally sophisticated, but public understanding may lag.
+- Common-control investigations could become fact-heavy and contentious.
+- Provisional role assignment plus appeals may create temporary uncertainty.
 
 ## Contradictions / Overlap
 
-TBD
+- Party Power Roles overlap with Electoral System, Integrity System, Public Party Status Ledger, and Amendment Rules.
+- Common Control overlaps with hidden sovereigns and influence disclosure.
+- Coalition Side Agreement Disclosure overlaps with Integrity and Public Accountability.
 
 ## Abuse Scenarios
 
-TBD
+- Large parties use allied entities to create fake Plurality or Emergent parties.
+- Regulators overclassify independent aligned parties as commonly controlled.
+- A party enters confidence-and-supply but still claims Opposition privileges.
+- Secret side agreements trade appointments, budget concessions, or regional privileges.
+- Governing Power delays provisional role assignment to weaken oversight.
 
 ## Implementation Concerns
 
-TBD
+- Requires a capable Election and Party Court.
+- Requires fast, reliable party status publication.
+- Requires evidence standards that expose shell parties without chilling lawful coalition politics.
+- Requires public explanations so voters understand party roles.
 
 ## v0.4 Recommendations
 
-TBD
+- Define **Party Role Threshold Schedule** in a constitutional statute or parameter appendix.
+- Add deadline for provisional role assignment after certification.
+- Add public explainer requirement for confidence-and-supply arrangements.
+- Clarify that common-control remedies are functional, not party-dissolution tools.
+- Add fast appeal path for party status disputes before government formation deadlines expire.
 
 ---
 
@@ -407,27 +444,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- v0.3 adds clearer chamber-power allocation principles.
+- Regional Chamber role is better tied to federal balance.
+- Civic Review Integrity Rule is significantly stronger.
+- High-Impact Classification Review helps prevent abuse of high-impact designation.
+- Legislative Investigation Due Process improves protection against harassment.
+- Oversight Allocation protects Opposition and Plurality participation.
 
 ## Overcomplexity Risk
 
-TBD
+- Legislature now has many procedural categories: ordinary legislation, high-impact legislation, Civic Review, chamber-specific powers, oversight allocation, enhanced rules.
+- Civic Review could become another procedural bottleneck if triggered too often.
+- Chamber-specific powers remain partly deferred to constitutional statute.
 
 ## Contradictions / Overlap
 
-TBD
+- Civic Review overlaps with citizen assemblies and high-impact legislation review.
+- Regional Chamber authority overlaps with federalism and national uniformity findings.
+- Legislative oversight overlaps with Integrity System and courts.
 
 ## Abuse Scenarios
 
-TBD
+- Regional Chamber blocks ordinary legislation by claiming federal-balance impact.
+- Governing Power classifies legislation as ordinary to avoid Civic Review.
+- Opposition or Plurality blocs overuse Civic Review to delay governance.
+- Legislative investigations target journalists, activists, or private citizens.
+- Oversight committee allocation is manipulated through procedural rules.
 
 ## Implementation Concerns
 
-TBD
+- Requires well-drafted legislative rules.
+- Requires staff capacity for high-impact review, fiscal review, rights review, and civic review.
+- Needs public-facing explanation of when Civic Review applies and what it can do.
 
 ## v0.4 Recommendations
 
-TBD
+- Add default rule: Regional Chamber heightened role applies only where regional authority, national uniformity, constitutional statutes, or intergovernmental fiscal obligations are materially affected.
+- Add cap or cooldown for repeated Civic Review triggers on substantially similar matters.
+- Add public High-Impact Classification Ledger.
+- Define oversight committee minimum allocation in constitutional statute.
+- Add anti-harassment standard for legislative investigations.
 
 ---
 
@@ -435,27 +491,46 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Constructive No-Confidence Minimum Rule improves continuity.
+- Civic President Selection Principles prevent unilateral capture by the Governing Power.
+- Emergency Council Activation Rule clarifies scope, duration, reporting, rights review, fiscal review, and normalcy restoration.
+- Executive Noncompliance Escalation adds teeth to lawful orders.
+- Judicial Removal Limits reduce risk of courts being used for routine political disputes.
 
 ## Overcomplexity Risk
 
-TBD
+- The executive system has multiple centers: Chief Executive, Governing Council, Civic President, Emergency Council.
+- The Civic President could be hard to explain publicly unless carefully framed.
+- Emergency Council rules add process during crisis, though this is justified.
 
 ## Contradictions / Overlap
 
-TBD
+- Emergency Council overlaps with Resilience System and Emergency Powers.
+- Civic President overlaps with Stewardship Power and Constitutional Court referrals.
+- Executive Noncompliance overlaps with court enforcement, Integrity review, and impeachment.
 
 ## Abuse Scenarios
 
-TBD
+- Civic President claims constitutional guardianship to interfere in ordinary policy.
+- Chief Executive uses Emergency Council to centralize power.
+- Legislature weaponizes no-confidence to destabilize government.
+- Executive ignores stewardship findings and delays compliance.
+- Courts are asked to remove executives over policy disagreements framed as constitutional violations.
 
 ## Implementation Concerns
 
-TBD
+- Civic President selection must be designed carefully.
+- Emergency Council membership must avoid both partisan capture and technocratic overreach.
+- Public must understand who actually governs.
+- Constructive no-confidence requires clear replacement certification.
 
 ## v0.4 Recommendations
 
-TBD
+- Add public-facing executive authority map requirement.
+- Define Civic President as continuity/referral office, not reserve executive.
+- Require Emergency Council membership to include relevant executive officials plus rights, fiscal, and emergency oversight liaisons without giving stewardship bodies governing power.
+- Define noncompliance escalation timelines.
+- Add requirement that no-confidence replacement bloc publish governing agreement before confirmation.
 
 ---
 
@@ -463,27 +538,45 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Remedial Hierarchy Rule improves judicial restraint.
+- Election and Emergency Review Timing requires expedited review.
+- Independent Technical Expert Pool strengthens technology adjudication.
+- Court Compliance Dashboard makes enforcement visible.
+- Judicial Structure Change Rule protects against court-packing.
 
 ## Overcomplexity Risk
 
-TBD
+- The court system is now powerful and specialized, but complex.
+- Multiple tribunals may create routing confusion despite One-Door Filing.
+- Public-facing legal access will require significant infrastructure.
 
 ## Contradictions / Overlap
 
-TBD
+- Fast Rights Tribunal, Constitutional Court, Technology Review Tribunal, and Election and Party Court may overlap in urgent cases.
+- Court Compliance Dashboard overlaps with Public Constitutional Interface.
+- Structural remedies may conflict with Remedial Restraint if not tightly limited.
 
 ## Abuse Scenarios
 
-TBD
+- Litigants flood Fast Rights Tribunal with political disputes.
+- Agencies route disputes to slower administrative channels.
+- Technical expert pool becomes dominated by vendors or elite institutions.
+- Courts impose broad structural remedies where narrow relief would suffice.
+- Governing Power changes court structure under reform rhetoric.
 
 ## Implementation Concerns
 
-TBD
+- Requires judicial staffing, triage, legal aid, technical expertise, and public routing.
+- Specialized tribunals must be coordinated.
+- Court-order enforcement must be strong without creating judicial administration of agencies.
 
 ## v0.4 Recommendations
 
-TBD
+- Add **Court Routing Schedule** or appendix.
+- Add timeline defaults for urgent election, emergency, and rights matters.
+- Add technical expert pool governance rules.
+- Add standard: structural remedies require persistent violation, failed lesser remedies, or systemic rights failure.
+- Add legal aid/access requirement for high-risk rights claims.
 
 ---
 
@@ -491,27 +584,45 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Severe Sanctions section improves due process for high-stakes integrity findings.
+- Protected Whistleblower Channels are stronger.
+- Pre-election integrity claims receive special timing protection.
+- Good-faith whistleblowers are protected even if allegations are not proven.
+- Criminal punishment remains judicial, preserving separation.
 
 ## Overcomplexity Risk
 
-TBD
+- Integrity processes are now robust but procedurally heavy.
+- High-stakes claims could require accelerated review, public reasoning, and appeal simultaneously.
+- Whistleblower channels, confidentiality, and classified reporting require sophisticated administration.
 
 ## Contradictions / Overlap
 
-TBD
+- Integrity overlaps with Public Accountability, Party Governance, Fiscal Constitution, Security, and Technology.
+- Whistleblower protections overlap with Security article and classified channels.
+- Severe sanctions overlap with courts and party status rights.
 
 ## Abuse Scenarios
 
-TBD
+- Integrity complaints are timed to damage candidates before elections.
+- Officials retaliate against whistleblowers through indirect means.
+- Preliminary investigations leak to media.
+- Minor errors are framed as bad faith.
+- False reports are used to trigger public scandal.
 
 ## Implementation Concerns
 
-TBD
+- Requires independent investigators, appeal bodies, confidentiality systems, and anti-retaliation enforcement.
+- Requires safeguards against both suppression and weaponization of complaints.
+- Pre-election expedited claims need very tight calendars.
 
 ## v0.4 Recommendations
 
-TBD
+- Add confidential intake and triage rules.
+- Define retaliation broadly to include demotion, access loss, clearance retaliation, harassment, contract loss, and blacklisting.
+- Add leak discipline for preliminary integrity investigations.
+- Add pre-election integrity calendar and provisional remedy rules.
+- Cross-reference Security whistleblower article for classified matters.
 
 ---
 
@@ -519,27 +630,47 @@ TBD
 
 ## v0.3 Improvements
 
-TBD
+- Default Deadlock Sequence is a major improvement.
+- Acting Appointment Limit prevents vacancy-based capture.
+- Composition Balance Review prevents arbitrary exclusion.
+- Independence-Risk Publication improves transparency.
+- Citizen Review Panel Standards clarify role.
+- Stewardship Classification Rule and Stewardship Finding Appeal reduce shadow-government risk.
 
 ## Overcomplexity Risk
 
-TBD
+- Appointment processes are now sophisticated but potentially slow.
+- Composition balance and independence-risk statements may become politically contentious.
+- Citizen panels require administration and public trust.
 
 ## Contradictions / Overlap
 
-TBD
+- Stewardship appointments overlap with legislature, Regional Chamber, courts, and transition readiness.
+- Stewardship Classification overlaps with court review and public accountability.
+- Performance Failure Review could conflict with independence if abused.
 
 ## Abuse Scenarios
 
-TBD
+- Governing bloc induces appointment deadlock to force acting officials.
+- Professional guilds dominate qualification review.
+- Independence-risk statements are weaponized against lawful prior advocacy.
+- Performance Failure Review becomes retaliation for aggressive oversight.
+- Composition balance is used to exclude disfavored but qualified candidates.
 
 ## Implementation Concerns
 
-TBD
+- Requires careful appointment calendars.
+- Requires neutral qualification panels.
+- Requires public education: stewardship bodies are guardians, not rulers.
+- Requires funding to manage appointment and review processes.
 
 ## v0.4 Recommendations
 
-TBD
+- Add maximum acting appointment duration.
+- Add default appointment timeline.
+- Add independence-risk safe harbor for lawful public criticism and nonpartisan expertise.
+- Define composition-balance standard as anti-domination, not quota.
+- Add public stewardship role guide.
 
 ---
 
