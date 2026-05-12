@@ -31,6 +31,20 @@ The Commonwealth’s shortest promise is:
 
 ---
 
+The Core Constitution states principles.
+
+The Schedules define constitutional mechanics.
+
+System Charters define institutional operation.
+
+Implementation Codes define administrative standards.
+
+Where documents conflict, the Core Constitution controls over Schedules, Schedules control over System Charters, and System Charters control over Implementation Codes.
+
+A more rights-protective interpretation controls where consistent with the Core Constitution.
+
+---
+
 # Article I — Foundational Principles
 
 ## Section 1. Popular Sovereignty
