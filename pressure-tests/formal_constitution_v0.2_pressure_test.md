@@ -402,27 +402,42 @@ Low to moderate. Maintaining accurate maps is a real burden but essential.
 
 ## Problem Addressed
 
-TBD
+v0.1 stated a mixed-member proportional direction but left too much room for electoral manipulation through parameters, thresholds, district/list ratios, and citizen-participation mechanisms.
 
 ## Strengths
 
-TBD
+- v0.2 locks mixed-member proportional representation more clearly.
+- It requires local representation, proportional correction, independent boundary drawing, fair ballot access, public party-role assignment, coalition disclosure, and delayed self-dealing protection.
+- Electoral parameter changes are properly treated as election and power rules.
+- Citizen participation is explicitly supplemental, not a replacement for representative government, rights, courts, or elections.
+- Citizen participation integrity standards reduce the risk of performative or captured consultation.
 
 ## Residual Vulnerabilities
 
-TBD
+- Final electoral parameters remain open.
+- A weak constitutional statute could technically satisfy mixed-member proportional language while preserving disproportional outcomes.
+- Citizen assemblies could still be manipulated through agenda-setting, framing, facilitation, or participant selection.
+- Public understanding of two-vote electoral systems requires sustained civic translation.
 
 ## Abuse Scenarios
 
-TBD
+- Incumbents set thresholds too high and block emergent parties.
+- District/list ratio is shifted to preserve dominant-party advantage.
+- Citizen assemblies are convened only after policy decisions are effectively made.
+- Referendums are used to bypass rights protections or complex institutional safeguards.
+- Boundary drawing is independent in name but captured through appointment manipulation.
 
 ## Complexity Cost
 
-TBD
+Moderate. Mixed-member proportional systems and citizen participation mechanisms require education, administration, and public trust infrastructure.
 
 ## v0.3 Recommendations
 
-TBD
+- Add minimum electoral guarantees: two votes, independent boundaries, compensatory proportionality, public party ledger, and fair threshold review.
+- Add Electoral Parameter Review after the first two election cycles.
+- Add Citizen Assembly Integrity Rule: transparent mandate, sortition safeguards, compensation, independent facilitation, public record, and clear legal effect.
+- Add anti-majoritarian safeguard: referendums may not override the rights floor or Kernel.
+- Require voter education and sample ballots before major electoral changes.
 
 ---
 
@@ -430,27 +445,40 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 risked confusing Stewardship Power with political party power and left “lawful governing mandate” underdefined.
 
 ## Strengths
 
-TBD
+- v0.2 clarifies that Stewardship Power is a nonpartisan constitutional function, not a political party role.
+- It defines lawful governing mandate as confidence-backed or constitutionally recognized coalition authority.
+- It adds enforcement for violations of Governing, Opposition, Plurality, or Emergent rights.
+- It preserves the five-role conceptual model while cleaning up legal status.
 
 ## Residual Vulnerabilities
 
-TBD
+- Party role thresholds are still not fully parameterized.
+- Coalition status disputes may become frequent in fragmented legislatures.
+- Plurality and Emergent Power rights need more precise operational content.
+- Enforcement routes may overlap between Election and Party Court and Constitutional Court.
 
 ## Abuse Scenarios
 
-TBD
+- Governing coalition delays recognition of Opposition or Plurality rights.
+- A party claims Opposition status after entering a confidence-and-supply arrangement.
+- An emergent party meets public support thresholds but is denied debate or funding access.
+- Stewardship bodies are attacked as partisan because their decisions affect party competition.
 
 ## Complexity Cost
 
-TBD
+Moderate. Role clarity improves accountability, but party-role administration adds constitutional machinery.
 
 ## v0.3 Recommendations
 
-TBD
+- Add a Party Role Assignment Statute requirement with thresholds, timing, and appeals.
+- Define confidence-and-supply status and its effect on Opposition classification.
+- Require automatic provisional party-role assignment after certified election results.
+- Add public explainer for party roles in the Public Party Status Ledger.
+- Clarify Election and Party Court jurisdiction over role disputes, with constitutional appeal where Kernel rights are implicated.
 
 ---
 
@@ -458,27 +486,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 had anti-shell-party and ledger concepts but lacked process. v0.2 adds evidence, reasoning, response, appeal, and publication requirements.
 
 ## Strengths
 
-TBD
+- Common Control process is more legally defensible.
+- It protects against fake pluralism while preserving due process.
+- Public Party Status Ledger now has publication timing and appealability.
+- Ledger contents make party power visible to ordinary citizens.
+- Proportional Leverage language prevents coalition bargaining over constitutional machinery.
 
 ## Residual Vulnerabilities
 
-TBD
+- Evidence thresholds for common control remain open.
+- Parties may coordinate through informal networks that are hard to prove.
+- The Ledger may become stale during rapid coalition shifts.
+- Appeals could delay recognition of party status.
+- Remedies for common control are not fully defined.
 
 ## Abuse Scenarios
 
-TBD
+- Major parties create nominally separate parties to occupy Plurality or Emergent roles.
+- Regulators overreach and classify ideologically aligned but independent parties as commonly controlled.
+- Coalition partners hide side agreements affecting appointments, procurement, or public funding.
+- Party status is litigated strategically to delay government formation.
+- Ledger publication is delayed to obscure responsibility after coalition collapse.
 
 ## Complexity Cost
 
-TBD
+Moderate to high. Common-control investigations are fact-intensive, but necessary to prevent manufactured pluralism.
 
 ## v0.3 Recommendations
 
-TBD
+- Define common-control evidence categories and evidentiary standard.
+- Add provisional party-status rule while appeals proceed.
+- Define remedies: aggregation for funding, debate, committee allocation, and party-role qualification; not automatic party dissolution.
+- Require coalition side-agreement disclosure.
+- Add update timeline for the Public Party Status Ledger after material changes.
 
 ---
 
@@ -486,27 +530,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 created a legislature with People’s Chamber, Regional Chamber, and Civic Review Mechanism but left powers, triggers, and limits underdeveloped.
 
 ## Strengths
 
-TBD
+- v0.2 adds chamber-specific and joint-power categories.
+- It defines high-impact legislation.
+- It limits Civic Review delay and requires public reasoning.
+- It adds due process for legislative investigations.
+- Legislative limits still protect the Kernel, elections, opposition, and anti-secret-authority rules.
 
 ## Residual Vulnerabilities
 
-TBD
+- Chamber power allocation remains deferred to constitutional statute.
+- Civic Review composition and selection are still open.
+- Regional Chamber could become an obstruction point if its powers are too broad.
+- Legislative investigation due process needs operational rules.
+- “High-impact legislation” could become overinclusive.
 
 ## Abuse Scenarios
 
-TBD
+- Regional Chamber blocks ordinary policy unrelated to federal balance.
+- Civic Review is triggered repeatedly to slow a governing agenda.
+- Legislative investigations are used to harass private citizens, journalists, or opposition groups.
+- People’s Chamber uses ordinary procedure to pass laws that should require enhanced process.
+- High-impact classification is manipulated to delay or fast-track legislation.
 
 ## Complexity Cost
 
-TBD
+Moderate. The legislature becomes more legitimate and reviewable, but procedure is heavier.
 
 ## v0.3 Recommendations
 
-TBD
+- Define chamber authority defaults: budget initiation, regional veto scope, appointment confirmation, emergency renewal.
+- Add Civic Review selection standards: sortition, qualification support, compensation, conflict rules, and time limits.
+- Add High-Impact Classification Review for disputed classification.
+- Add legislative subpoena due process and privacy protections.
+- Add procedural anti-abuse rule for repeated Civic Review triggers.
 
 ---
 
@@ -514,27 +574,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 defined executive offices but left the Civic President, Emergency Council, and removal pathways under-specified.
 
 ## Strengths
 
-TBD
+- v0.2 states that the Civic President’s selection, term, removal, and nonpartisanship standards must be defined by constitutional statute.
+- It limits the Emergency Council to temporary, scoped, time-limited authority.
+- It prevents the Emergency Council from creating permanent authority, suspending elections, governing ordinary policy, or bypassing courts.
+- It narrows judicial removal to incapacity, unlawful usurpation, grave constitutional violation, or narrowly defined cause.
+- It adds executive duty to maintain public accountability records and obey lawful orders.
 
 ## Residual Vulnerabilities
 
-TBD
+- Civic President design remains open and could become too powerful or too symbolic.
+- Emergency Council membership and activation process remain open.
+- “Grave constitutional violation” requires definition.
+- Executive accountability duty needs enforcement consequences.
+- Constructive no-confidence remains under-parameterized.
 
 ## Abuse Scenarios
 
-TBD
+- Civic President claims mandate to intervene in ordinary political disputes.
+- Chief Executive uses Emergency Council as a parallel cabinet.
+- Legislature attempts judicialized removal for political disagreements.
+- Executive ignores stewardship or court orders and delays enforcement.
+- Coalition collapse leaves executive authority ambiguous.
 
 ## Complexity Cost
 
-TBD
+Moderate. The executive design is sophisticated but must be easy for the public to understand.
 
 ## v0.3 Recommendations
 
-TBD
+- Define Civic President as elected indirectly or selected through cross-bloc/regional process, with strict nonpolicy limits.
+- Add Emergency Council activation, composition, reporting, and expiration requirements.
+- Define constructive no-confidence mechanics.
+- Add executive noncompliance escalation path.
+- Add public executive authority map showing who controls ordinary policy, continuity, and emergency coordination.
 
 ---
 
@@ -542,27 +618,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 created specialized courts but needed more jurisdictional discipline, fast-rights standards, court order enforcement, and technology expertise safeguards.
 
 ## Strengths
 
-TBD
+- v0.2 adds Serious Claim Gate and Narrow Relief.
+- It adds Primary Harm Rule and One-Door Filing.
+- It creates an Independent Technical Expert Pool for technology cases.
+- It adds Court Order Enforcement.
+- Judicial Restraint remains clear and important.
 
 ## Residual Vulnerabilities
 
-TBD
+- Timelines for urgent rights, election, and emergency review remain open.
+- Court hierarchy and appeal routes need more technical detail.
+- Technology expert pool could still be captured if not well governed.
+- Court order enforcement may conflict with separation of powers if sanctions are not careful.
+- Fast rights process could still be overwhelmed.
 
 ## Abuse Scenarios
 
-TBD
+- Litigants flood Fast Rights Tribunal with weak claims to block policy rollout.
+- Agencies exploit appeal delays while rights harm continues.
+- Vendor-funded experts dominate technology litigation.
+- Officials comply superficially with court orders while continuing unlawful practices.
+- Courts impose broad policy remedies instead of narrow constitutional relief.
 
 ## Complexity Cost
 
-TBD
+Moderate to high. Specialized courts improve remedy quality but require staffing, funding, and public routing support.
 
 ## v0.3 Recommendations
 
-TBD
+- Add emergency and election review clocks.
+- Add appellate path chart for all specialized tribunals.
+- Add technical expert conflict, rotation, and disclosure rules.
+- Add court compliance dashboard for final rights and constitutional orders.
+- Add remedial hierarchy: notice, correction, narrow injunction, broader injunction, structural remedy only where necessary.
 
 ---
 
@@ -570,27 +662,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 gave the Integrity System broad power but needed stronger due process, public standards, appeal, and whistleblower protection.
 
 ## Strengths
 
-TBD
+- v0.2 adds public case standards, enforcement statistics, sanction categories, and appeal paths.
+- It distinguishes clerical defects, curable errors, negligence, bad faith, corruption, covert influence, and abuse of office.
+- It protects whistleblowers reporting broad categories of abuse.
+- It confirms criminal punishment remains judicial.
+- Cure and appeal provisions reduce risk of political weaponization.
 
 ## Residual Vulnerabilities
 
-TBD
+- Whistleblower procedures need confidentiality and retaliation remedies.
+- False or bad-faith reports may be hard to distinguish from mistaken reports.
+- Integrity System scope remains broad.
+- Public case-opening standards could expose investigative methods.
+- Enforcement statistics must protect privacy and investigation integrity.
 
 ## Abuse Scenarios
 
-TBD
+- Integrity complaints are filed to smear candidates before elections.
+- Officials retaliate against whistleblowers through reassignment, clearance removal, or legal threats.
+- Integrity body leaks preliminary findings.
+- Minor compliance errors are used to attack emergent parties.
+- False whistleblower claims are used to trigger media scandals.
 
 ## Complexity Cost
 
-TBD
+Moderate. Due process rules increase procedural burden but are necessary to prevent integrity power from becoming political power.
 
 ## v0.3 Recommendations
 
-TBD
+- Add protected whistleblower channels, anti-retaliation remedies, and confidential reporting procedures.
+- Require pre-election expedited handling for candidate/party integrity claims.
+- Add public/private reporting split for sensitive investigations.
+- Define bad-faith complaint standard carefully.
+- Require independent review for severe integrity sanctions affecting candidacy, party status, or office eligibility.
 
 ---
 
@@ -598,27 +706,44 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 included appointment architecture but lacked enhanced confirmation, deadlock resolution, composition balance, performance failure, and bad-faith removal protections.
 
 ## Strengths
 
-TBD
+- v0.2 adds enhanced confirmation by supermajority or cross-bloc approval.
+- It requires deadlock resolution by constitutional statute.
+- It adds Composition Balance to prevent domination by a political, financial, professional, vendor, donor, sectoral, or regional bloc.
+- It adds Performance Failure Review.
+- It adds sanctions for bad-faith removal petitions.
+- It preserves the core rule that stewardship bodies may not govern in place of elected institutions.
 
 ## Residual Vulnerabilities
 
-TBD
+- Key details remain deferred to statute.
+- Deadlock resolution could still be gamed.
+- Composition balance can become politically contested.
+- Performance review could be used to pressure independent stewards.
+- Citizen review panel design remains open.
 
 ## Abuse Scenarios
 
-TBD
+- Governing bloc refuses to confirm qualified nominees and forces acting appointments.
+- Professional guilds dominate qualification panels.
+- Composition balance is used to reject nominees with unpopular but lawful backgrounds.
+- Performance failure review becomes retaliation for aggressive enforcement.
+- Bad-faith removal penalties chill legitimate accountability efforts.
 
 ## Complexity Cost
 
-TBD
+Moderate. Safeguards are necessary because stewardship bodies are powerful, but appointment rules will be procedurally demanding.
 
 ## v0.3 Recommendations
 
-TBD
+- Add default deadlock sequence if statute fails.
+- Add independence-risk publication requirement for all nominees.
+- Define acting appointment limits.
+- Add citizen panel selection and scope standards.
+- Add review forum for composition-balance disputes.
 
 ---
 
@@ -626,27 +751,43 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 had strong algorithmic accountability but needed clearer triggers. v0.2 adds Material Influence Test and No Black-Box Public Authority.
 
 ## Strengths
 
-TBD
+- Material Influence Test closes the “it was only advisory” loophole.
+- No Black-Box Public Authority prevents trade secrecy from defeating rights review.
+- Public System Cards improve disclosure quality.
+- Meaningful Human Review remains substantive.
+- Prohibited automated actions are clear.
 
 ## Residual Vulnerabilities
 
-TBD
+- Agencies may understate influence of automated systems.
+- Some complex models may be auditable only through specialized methods, not full public disclosure.
+- Vendor resistance may be intense.
+- Human review may still be overwhelmed.
+- Public System Cards may become vague or boilerplate.
 
 ## Abuse Scenarios
 
-TBD
+- Algorithmic risk score determines enforcement priority but is described as internal workflow support.
+- Vendor refuses to disclose model details and claims intellectual property.
+- Agency publishes a system card with generic language but no useful information.
+- Human reviewers cannot override because policy or workload makes override unrealistic.
+- Emergency deployment bypasses ordinary technology review.
 
 ## Complexity Cost
 
-TBD
+Moderate. Real technology accountability is demanding, but essential to prevent algorithmic sovereignty.
 
 ## v0.3 Recommendations
 
-TBD
+- Require auditability even where public disclosure is limited.
+- Add override-rate, appeal-rate, error-rate, and disparity reporting.
+- Define minimum system-card fields.
+- Require emergency technology deployments to receive time-limited provisional approval and post-deployment review.
+- Add procurement rule: no public contract for rights-impacting system without audit access.
 
 ---
 
