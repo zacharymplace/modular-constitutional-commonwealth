@@ -1149,43 +1149,333 @@ Each test area should answer:
 
 ## 1. Does v0.3 Still Have a Clear Public Story?
 
-TBD
+Yes, but the public story is now partly buried under technical precision.
+
+The core story remains strong:
+
+> Make democracy hard to kill. Make policy easy to improve. Make power impossible to hide.
+
+v0.3 preserves that thesis, but the formal draft is now long enough that public-facing materials are essential.
+
+### Finding
+
+v0.3 should be treated as a **technical constitutional draft**, not the public-facing version.
+
+### Recommendation
+
+Create a shorter companion:
+
+`constitutional-draft/public_constitution_lite_v0.1.md`
+
+Purpose:
+
+- preserve the core constitutional logic;
+- explain rights and institutions in plain language;
+- avoid excessive procedural detail;
+- point technical readers to the full formal draft.
+
+---
 
 ## 2. Did v0.3 Become Too Long for Constitutional Text?
 
-TBD
+Mostly yes.
+
+At 2,000+ lines, v0.3 is probably too long for a clean public constitution, but it is acceptable as a **technical draft** or **constitutional code draft**.
+
+### Finding
+
+Some v0.3 material should eventually move into:
+
+- constitutional schedules;
+- constitutional statutes;
+- system charters;
+- implementation codes;
+- definitions appendix;
+- parameter schedules.
+
+### Candidates to Move Out of Main Text
+
+- detailed capacity metrics;
+- detailed public interface audits;
+- detailed algorithmic system-card fields;
+- detailed DLT validator composition;
+- detailed transition phase mechanics;
+- detailed fiscal model governance;
+- detailed civic review procedures;
+- detailed public trust license administration.
+
+### Recommendation
+
+Do not delete these details yet. Mark them for extraction into schedules during v0.4 or a later “Constitution + Schedules” restructuring.
+
+---
 
 ## 3. Which Material Belongs in the Constitution vs Constitutional Statutes?
 
-TBD
+### Keep in the Constitution
+
+- Democratic Kernel;
+- rights floor;
+- public accountability right;
+- no hidden sovereign rule;
+- party power role framework;
+- stewardship independence and limits;
+- emergency expiration;
+- algorithmic sovereignty prohibition;
+- fiscal honesty principle;
+- amendment tiers;
+- transition no-gap rules.
+
+### Move to Constitutional Statutes / Schedules
+
+- exact electoral thresholds;
+- exact appointment timelines;
+- exact emergency durations;
+- detailed algorithmic reporting metrics;
+- detailed DLT validator mechanics;
+- court filing timelines;
+- capacity-gate scoring formulas;
+- civic review operational mechanics;
+- public interface audit scoring;
+- local fiscal distress indicators.
+
+### Recommendation
+
+v0.4 should introduce a structural split:
+
+1. **Core Constitution**
+2. **Constitutional Schedules**
+3. **System Charters**
+4. **Implementation Statutes**
+
+---
 
 ## 4. Are There Too Many Review Bodies?
 
-TBD
+There are many review paths, but most are justified by domain complexity.
+
+The risk is not simply the number of bodies. The risk is unclear routing.
+
+### Current Review Bodies / Paths
+
+- Constitutional Court;
+- High Court;
+- Administrative Courts;
+- Fast Rights Tribunal;
+- Election and Party Court;
+- Technology Review Tribunal;
+- Integrity System;
+- Stewardship bodies;
+- Resilience review;
+- Fiscal scoring;
+- Public Interface audits;
+- Transition readiness certification.
+
+### Finding
+
+The architecture survives if the **One-Door Filing**, **Wrong-Door Transfer**, **Primary Harm Rule**, and **Public Jurisdiction Maps** work.
+
+### Recommendation
+
+v0.4 should add a single **Public Routing Principle**:
+
+> The public shall not be required to know the internal structure of government to access review. Government must route good-faith claims to the correct forum.
+
+---
 
 ## 5. Are There Too Many Procedural Triggers?
 
-TBD
+Possibly.
+
+v0.3 contains many triggers:
+
+- high-impact legislation;
+- rights-impacting defects;
+- fast rights claims;
+- Kernel impairment;
+- emergency renewal;
+- lead assignment challenge;
+- capacity gates;
+- public interface audit;
+- fiscal risk bands;
+- technology review;
+- DLT necessity;
+- transition readiness.
+
+### Finding
+
+This is acceptable for a technical draft, but v0.4 should reduce procedural clutter by grouping triggers into risk tiers.
+
+### Recommendation
+
+Introduce a **Risk-Tiered Process Rule**:
+
+| Risk tier | Process level |
+|---|---|
+| Low-risk administration | light logging and ordinary appeal |
+| Material public authority | owner, legal basis, audit, appeal |
+| Rights-impacting action | heightened notice, review, remedy |
+| Democratic machinery / emergency / constitutional power | enhanced process |
+| Kernel-impacting action | strictest process and expedited review |
+
+---
 
 ## 6. Can Ordinary People Use the System?
 
-TBD
+Not yet by reading the formal constitution alone.
+
+But the architecture explicitly requires:
+
+- Public Constitutional Interface;
+- public jurisdiction maps;
+- wrong-door transfer;
+- non-digital access;
+- public party ledger;
+- public fiscal dashboards;
+- public transition ledger;
+- plain-language amendment guides;
+- civic translation.
+
+### Finding
+
+The formal system recognizes the usability problem and designs for it. The next step is to produce the public-facing layer.
+
+### Recommendation
+
+Create two companion documents:
+
+1. `public_constitution_lite_v0.1.md`
+2. `citizen_interface_requirements_v0.1.md`
+
+The first explains the system. The second defines how citizens actually navigate it.
+
+---
 
 ## 7. Can Bad Actors Still Hide Power?
 
-TBD
+Less than in prior drafts.
+
+v0.3 sharply improves anti-evasion with:
+
+- Public Authority Definition;
+- Material Public Function Test;
+- Material Influence Definition;
+- Hidden Sovereign Test;
+- Common Control Evidence Standard;
+- Coalition Side Agreement Disclosure;
+- No Black-Box Public Authority;
+- Economic Substance Rule;
+- Public Accountability Defect Categories;
+- Oracle Accountability;
+- Beneficial Ownership / affiliated entity disclosure.
+
+### Remaining Hideouts
+
+- informal influence networks;
+- elite professional pipelines;
+- foundation/think tank/policy shop ecosystems;
+- classified security programs;
+- vendor-layer technical control;
+- local administrative discretion;
+- algorithmic workflow nudges;
+- emergency procurement;
+- fiscal assumptions.
+
+### Recommendation
+
+v0.4 should not add many new anti-capture bodies. It should add better **ecosystem disclosure schedules** and **audit sampling authority**.
+
+---
 
 ## 8. Can Bad Actors Weaponize the Safeguards?
 
-TBD
+Yes. This is the main remaining risk.
+
+Potential weaponization:
+
+- Integrity complaints to harass opponents;
+- Kernel claims to block ordinary reform;
+- fast rights claims to delay policy;
+- public accountability defects to paralyze agencies;
+- common-control allegations against aligned but independent parties;
+- capacity-gate findings to centralize power;
+- information-integrity rules to pressure speech;
+- Public Trust License to gatekeep office.
+
+### Existing Protections
+
+- lawful advocacy safe harbor;
+- ordinary reform safe harbor;
+- serious claim gate;
+- narrow interim relief;
+- proportional integrity sanctions;
+- ideological neutrality;
+- cure rules;
+- appeal paths;
+- stewardship limits.
+
+### Recommendation
+
+v0.4 should add a general **Anti-Weaponization Principle**:
+
+> Safeguards designed to protect democracy may not be used in bad faith to disable lawful opposition, suppress dissent, obstruct ordinary administration, or entrench incumbents.
+
+---
 
 ## 9. Can the System Function During Crisis?
 
-TBD
+Yes, but only if emergency procedures are pre-built.
+
+v0.3 has strong emergency architecture:
+
+- activation standards;
+- duration limits;
+- renewal thresholds;
+- classified oversight;
+- post-emergency audit;
+- normalcy restoration;
+- emergency technology deployment controls;
+- security neutrality;
+- fiscal emergency controls.
+
+### Main Risk
+
+The system may be too procedurally heavy if crisis workflows are not prepared before crisis.
+
+### Recommendation
+
+Add an **Emergency Preparedness Code** outside the core Constitution:
+
+- pre-approved templates;
+- emergency court calendar;
+- emergency spending ledger setup;
+- technology provisional approval process;
+- classified oversight activation;
+- public emergency dashboard;
+- normalcy restoration checklist.
+
+---
 
 ## 10. Is v0.3 Ready for Public Release?
 
-TBD
+Not as the main public document.
+
+It is ready as a **technical constitutional draft**.
+
+### Finding
+
+v0.3 is too detailed for first public presentation, but strong enough to anchor a public-facing “lite” version.
+
+### Recommendation
+
+Do not draft v0.4 immediately.
+
+Instead:
+
+1. promote v0.3 as **Stable Technical Draft v0.3**;
+2. extract **Public Constitution Lite v0.1**;
+3. create **Constitutional Schedules Map v0.1**;
+4. then decide whether v0.4 should restructure the document into Constitution + Schedules.
 
 ---
 
@@ -1193,28 +1483,68 @@ TBD
 
 | Category | Grade | Notes |
 |---|---:|---|
-| Legal precision | TBD | TBD |
-| Public legibility | TBD | TBD |
-| Democratic legitimacy | TBD | TBD |
-| Rights protection | TBD | TBD |
-| Anti-capture strength | TBD | TBD |
-| Party governance | TBD | TBD |
-| Federalism and subsidiarity | TBD | TBD |
-| Institutional clarity | TBD | TBD |
-| Court and remedy design | TBD | TBD |
-| Stewardship safeguards | TBD | TBD |
-| Technology safeguards | TBD | TBD |
-| Fiscal safeguards | TBD | TBD |
-| Emergency safeguards | TBD | TBD |
-| Transition design | TBD | TBD |
-| Implementation feasibility | TBD | TBD |
-| Overall | TBD | TBD |
+| Legal precision | A | v0.3 substantially improves definitions, tests, and enforcement hooks |
+| Public legibility | B | Strong public story remains, but formal draft is now too technical for public release alone |
+| Democratic legitimacy | A- | Strong Kernel, party roles, opposition protection, and public accountability |
+| Rights protection | A | Strong personhood rights, limitation standards, fast relief, and digital rights |
+| Anti-capture strength | A | Hidden sovereign, common control, fiscal truth, technology, and stewardship safeguards are strong |
+| Party governance | A- | Strong role model; thresholds and parameter schedules still needed |
+| Federalism and subsidiarity | A- | Capacity gates and support nodes improved; metrics still needed |
+| Institutional clarity | B+ | Strong architecture but many bodies/review paths require routing simplification |
+| Court and remedy design | A- | Strong layered model; exact timelines and routing schedules still needed |
+| Stewardship safeguards | A- | Strong appointment and limit rules; deadlock and acting appointment details still need defaults |
+| Technology safeguards | A | One of the strongest areas; needs implementation standards |
+| Fiscal safeguards | A- | Strong truth machinery; model governance and dashboard design need schedules |
+| Emergency safeguards | A- | Strong anti-normalization design; exact durations needed |
+| Transition design | A- | Capacity-gated and anti-sabotage; certifier details and timeline needed |
+| Implementation feasibility | B+ | Feasible only with phased implementation and schedules |
+| Overall | A- | Strong technical draft; should be stabilized, then translated into public-facing form |
 
 ---
 
 # v0.4 Refinement Queue
 
-TBD
+## Structural Refinements
+
+1. Split formal draft into:
+   - Core Constitution;
+   - Constitutional Schedules;
+   - System Charters;
+   - Implementation Statutes.
+
+2. Create a Definitions and Tests Schedule.
+
+3. Create a Parameter Schedule for:
+   - electoral thresholds;
+   - emergency timelines;
+   - appointment thresholds;
+   - court review timelines;
+   - fiscal warning bands;
+   - transition milestones.
+
+4. Add a Public Routing Principle to simplify review access.
+
+5. Add a Risk-Tiered Process Rule to reduce procedural clutter.
+
+## Substantive Refinements
+
+6. Add Anti-Weaponization Principle.
+
+7. Add public usability requirements more prominently.
+
+8. Add emergency preparedness code reference.
+
+9. Add clearer distinction between core constitutional text and administrative implementation.
+
+10. Add schedules for public interface, fiscal dashboards, and technology system cards.
+
+## Drafting Decision
+
+v0.4 should be a **restructuring draft**, not merely another expansion draft.
+
+Its goal should be:
+
+> Keep the Constitution shorter. Move technical precision into schedules.
 
 ---
 
@@ -1222,16 +1552,52 @@ TBD
 
 ## Option A — Promote v0.3 to Stable Technical Draft
 
-TBD
+v0.3 is strong enough to be marked as a stable technical draft.
+
+It is coherent, pressure-tested, and materially stronger than v0.1 and v0.2.
+
+Weakness:
+
+- too long for public release as the primary constitutional text.
 
 ## Option B — Draft v0.4 Before Public Release
 
-TBD
+This would improve structure but risks delaying public-facing work.
+
+Best if the immediate goal is legal architecture.
+
+Weakness:
+
+- could over-optimize internal drafting before testing public comprehension.
 
 ## Option C — Extract Public Constitution Lite
 
-TBD
+This is the best next move.
+
+The project now needs a public-facing constitutional version that preserves the system’s core without overwhelming readers.
 
 ## Recommendation
 
-TBD
+Proceed with **Option C**.
+
+Mark v0.3 as:
+
+> Stable Technical Draft v0.3
+
+Then create:
+
+`constitutional-draft/public_constitution_lite_v0.1.md`
+
+Purpose:
+
+- 10–15 pages maximum;
+- plain-language constitutional structure;
+- no excessive procedural mechanics;
+- clear rights, institutions, party roles, accountability, technology, fiscal, emergency, and transition principles;
+- references the full technical draft for implementation detail.
+
+After Public Constitution Lite, create:
+
+`constitutional-draft/constitutional_schedules_map_v0.1.md`
+
+Then decide whether to draft v0.4 as a Constitution + Schedules restructuring.
