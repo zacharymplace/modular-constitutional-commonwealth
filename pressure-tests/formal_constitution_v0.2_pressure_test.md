@@ -39,27 +39,39 @@ Each refinement area should be tested against:
 
 ## Problem Addressed
 
-TBD
+v0.1 used “public authority” broadly but did not define it. That left room for evasion through contractors, vendors, public-private partnerships, automated systems, informal guidance, and delegated public functions.
 
 ## Strengths
 
-TBD
+- v0.2 defines public authority broadly enough to cover direct, delegated, automated, contracted, emergency, and publicly funded authority.
+- The definition properly includes decisions affecting rights, obligations, benefits, status, public money, enforcement, surveillance, elections, and public records.
+- It prevents a common modern evasion: “the vendor did it, not the government.”
+- It links public authority to material effect, which is the right trigger.
 
 ## Residual Vulnerabilities
 
-TBD
+- “Materially affects” will need interpretation.
+- A private actor may argue it merely provides tools, analytics, infrastructure, or recommendations rather than exercising authority.
+- Public-private partnerships could structure influence upstream before a formal public decision occurs.
+- Informal soft power, such as advisory scoring or risk flags, may still be hard to classify.
 
 ## Abuse Scenarios
 
-TBD
+- A benefits agency claims its vendor’s algorithm is not public authority because a public employee makes the final click.
+- A police department uses privately generated risk scores and claims the company is not exercising enforcement authority.
+- A public-private infrastructure entity manages access, pricing, or service levels while denying constitutional accountability.
+- A contractor administering public records claims proprietary process protections against audit.
 
 ## Complexity Cost
 
-TBD
+Moderate. The broad definition creates more compliance burden, but this is justified because modern public power is often outsourced, automated, or hybridized.
 
 ## v0.3 Recommendations
 
-TBD
+- Add a **Material Public Function Test**: a private or automated actor is exercising public authority when its conduct materially shapes access to public rights, benefits, enforcement, status, money, records, or services.
+- Add examples in a definitions appendix.
+- Clarify that advisory systems become public authority when they materially influence outcomes.
+- Add a presumption that publicly funded or legally delegated functions are reviewable when they affect rights or public access.
 
 ---
 
@@ -67,27 +79,39 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 warned against hidden sovereigns but did not define them. v0.2 now identifies hidden sovereigns as actors or systems exercising material public authority without lawful accountability.
 
 ## Strengths
 
-TBD
+- Captures nontraditional sources of control: donors, vendors, algorithms, emergency bodies, expert offices, contractors, and informal structures.
+- Prevents public power from hiding behind private form or technical complexity.
+- Reinforces the Public Accountability Rule.
+- Creates a constitutional vocabulary for modern capture.
 
 ## Residual Vulnerabilities
 
-TBD
+- The term is rhetorically powerful but legally broad.
+- Courts may struggle to distinguish hidden sovereignty from ordinary influence, expertise, lobbying, or administration.
+- Donor networks and ideological advocacy networks may claim speech/association protections.
+- Expert bodies may be accused of hidden sovereignty even when they are only advising.
 
 ## Abuse Scenarios
 
-TBD
+- A governing party labels hostile media, civil society, or watchdog groups “hidden sovereigns” to delegitimize criticism.
+- A donor network effectively controls candidate selection and policy language while claiming ordinary political participation.
+- A technology vendor controls system logic, updates, and data access while government retains nominal legal authority.
+- Emergency advisors make de facto policy decisions without public accountability.
 
 ## Complexity Cost
 
-TBD
+Moderate to high. The concept is necessary, but it requires careful standards so it does not become a weapon against ordinary pluralism.
 
 ## v0.3 Recommendations
 
-TBD
+- Add a **Hidden Sovereign Test** requiring material control over public authority, lack of lawful accountability, and practical effect on rights, policy, enforcement, money, or democratic competition.
+- Explicitly protect ordinary advocacy, journalism, protest, scholarship, and lawful political persuasion.
+- Require a finding of hidden sovereignty to be public, reasoned, appealable, and evidence-based.
+- Link remedies to correction and disclosure first, not automatic suppression.
 
 ---
 
@@ -95,27 +119,39 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 protected the Democratic Kernel formally, but bad actors can preserve institutions in name while hollowing them out in practice.
 
 ## Strengths
 
-TBD
+- v0.2 fixes this by saying formal preservation is insufficient if practical democratic correction is materially disabled.
+- The test covers elections, transfer of power, courts, opposition, equal citizenship, due process, civil liberties, civilian control, emergency review, and public challenge.
+- This is essential for detecting democratic backsliding.
+- Fast Kernel Review gives the protection operational force.
 
 ## Residual Vulnerabilities
 
-TBD
+- “Materially disables or degrades” requires standards.
+- The test could be invoked too often by losing parties.
+- Courts could overextend Kernel review into ordinary institutional disputes.
+- Good-faith reforms could be chilled by fear of Kernel litigation.
 
 ## Abuse Scenarios
 
-TBD
+- A government keeps elections but manipulates media access, district maps, public funding, and administrative rules.
+- A legislature reduces court jurisdiction while claiming courts still exist.
+- A governing bloc keeps opposition seats but removes information access and oversight powers.
+- Opposition parties claim routine electoral reforms are Kernel impairment.
 
 ## Complexity Cost
 
-TBD
+Moderate. The test adds litigation potential, but the protection is necessary because authoritarian dismantling is often incremental.
 
 ## v0.3 Recommendations
 
-TBD
+- Add a **Material Impairment Standard**: impairment must be substantial, practical, and connected to democratic self-correction.
+- Add a good-faith reform safe harbor where reforms preserve meaningful function and include independent review.
+- Require expedited but disciplined Kernel review with sanctions for bad-faith claims.
+- Add examples of Kernel impairment versus ordinary reform.
 
 ---
 
@@ -123,27 +159,40 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 used citizen-focused language too broadly. v0.2 distinguishes citizen political rights from personhood rights owed to all persons under Commonwealth authority.
 
 ## Strengths
 
-TBD
+- This is a major improvement.
+- Political rights are properly citizen-focused.
+- Due process, bodily security, court access, privacy, protection from unlawful detention, and protection from secret punishment now apply to all persons.
+- This prevents legal black holes for non-citizens, residents, visitors, migrants, detainees, or stateless persons.
+- It strengthens legitimacy and rule of law.
 
 ## Residual Vulnerabilities
 
-TBD
+- “Persons under Commonwealth authority” may need territorial and extraterritorial clarification.
+- Public benefits and social rights remain less defined.
+- Immigration/legal status cases need due process boundaries without collapsing into full political membership.
+- Emergency and security contexts may test the distinction.
 
 ## Abuse Scenarios
 
-TBD
+- Government detains non-citizens while arguing full constitutional rights do not apply.
+- A public algorithm affects non-citizen legal status without meaningful review.
+- Security agencies operate outside the territory and claim constitutional rights do not apply.
+- Local governments deny basic procedural protections to undocumented or temporary residents.
 
 ## Complexity Cost
 
-TBD
+Low to moderate. The distinction improves precision and reduces moral/legal ambiguity.
 
 ## v0.3 Recommendations
 
-TBD
+- Define “under Commonwealth authority” to include custody, jurisdiction, public decision systems, and controlled legal processes.
+- Add a minimum due process floor for immigration, detention, benefits, and enforcement decisions.
+- Consider whether social minimums or public-service dignity principles should be addressed separately.
+- Cross-reference Technology and Security articles for non-citizen automated and surveillance harms.
 
 ---
 
@@ -151,27 +200,39 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 listed rights but did not define how rights may be lawfully limited. v0.2 adds legality, necessity, proportionality, non-discrimination, reviewability, and consistency with the Kernel.
 
 ## Strengths
 
-TBD
+- Strong constitutional standard.
+- Prevents emergency, security, public order, or administrative convenience from becoming blank checks.
+- The proportionality requirement is especially useful for speech, protest, surveillance, emergency powers, and policing.
+- Reviewability preserves courts and rights remedies.
 
 ## Residual Vulnerabilities
 
-TBD
+- Necessity and proportionality can become flexible standards unless courts apply them consistently.
+- Some rights may need stricter rules than others.
+- The standard does not yet specify burden of proof.
+- Time-bounded “where appropriate” could be abused for indefinite restrictions.
 
 ## Abuse Scenarios
 
-TBD
+- Government restricts protest by claiming public order necessity.
+- Surveillance programs are justified as security measures without showing narrow tailoring.
+- Emergency restrictions continue without new evidence.
+- Local governments use broad safety rationales to restrict disfavored groups.
 
 ## Complexity Cost
 
-TBD
+Low. The standard is a necessary constitutional discipline.
 
 ## v0.3 Recommendations
 
-TBD
+- Add that the public authority bears the burden of justifying rights limitations.
+- Require heightened scrutiny for political rights, detention, surveillance, speech, elections, and emergency restrictions.
+- Require periodic renewal for ongoing rights limitations.
+- Add least-restrictive-means language where appropriate for high-risk rights.
 
 ---
 
@@ -179,27 +240,39 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 required public accountability records but did not say what happens when records are missing, false, incomplete, stale, or unusable.
 
 ## Strengths
 
-TBD
+- v0.2 adds a cure process and possible pause, review, invalidation, or corrective order.
+- This gives the Public Accountability Rule teeth.
+- It distinguishes ordinary defects from rights-impacting harms.
+- It encourages agencies to maintain usable records proactively.
 
 ## Residual Vulnerabilities
 
-TBD
+- Cure timelines are not defined.
+- Consequences may vary widely unless standardized.
+- Agencies may cure formally without improving usability.
+- Courts or stewardship bodies may be overloaded by accountability defects.
 
 ## Abuse Scenarios
 
-TBD
+- Agency publishes generic “Department” ownership instead of a named accountable office.
+- A procurement action lacks conflict disclosure until after award.
+- An algorithmic decision is disclosed only after challenge.
+- Government buries appeal paths in unreadable documents and claims compliance.
 
 ## Complexity Cost
 
-TBD
+Moderate. This may generate process burden, but it is central to the system’s anti-hidden-power design.
 
 ## v0.3 Recommendations
 
-TBD
+- Add defect categories: minor clerical, material incomplete, rights-impacting defect, bad-faith concealment.
+- Define presumptive cure windows by category.
+- Require usability cure, not merely formal publication.
+- Add automatic heightened review for repeated defects by the same office.
 
 ---
 
@@ -207,27 +280,40 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 assigned duties across government levels without ensuring state/local capacity. v0.2 adds Capacity Gates.
 
 ## Strengths
 
-TBD
+- Excellent refinement.
+- Prevents rights from depending on incapable institutions.
+- Recognizes that staffing, funding, records, appeal paths, audit, technology, accessibility, continuity, public interface, and legal authority are preconditions for real governance.
+- Allows higher-level support nodes when local capacity is absent.
 
 ## Residual Vulnerabilities
 
-TBD
+- Capacity standards need measurement.
+- National support nodes could become de facto takeover mechanisms.
+- Local governments may underinvest to invite higher-level assistance.
+- Capacity certification could become political.
 
 ## Abuse Scenarios
 
-TBD
+- National government declares local incapacity to centralize authority.
+- Local government claims capacity while lacking real appeal or audit paths.
+- Wealthier regions meet capacity gates sooner and gain more autonomy.
+- Support nodes remain in place longer than necessary.
 
 ## Complexity Cost
 
-TBD
+Moderate. Capacity assessment is administratively heavy but necessary.
 
 ## v0.3 Recommendations
 
-TBD
+- Add objective capacity metrics and public scoring.
+- Require capacity findings to be public, appealable, and time-limited.
+- Require support-node exit plans.
+- Pair capacity gates with technical assistance and fiscal support.
+- Prohibit using capacity findings to weaken rights or local democracy unnecessarily.
 
 ---
 
@@ -235,27 +321,39 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1 created five systems but risked jurisdictional evasion. v0.2 adds lead assignment challenge and primary harm rules.
 
 ## Strengths
 
-TBD
+- Strongly reduces “not my department” failures.
+- Gives people a way to challenge forum shopping.
+- Primary Harm Rule is a useful routing principle.
+- Protects against agencies routing rights matters into technical or administrative channels to avoid scrutiny.
 
 ## Residual Vulnerabilities
 
-TBD
+- Primary harm can be contested in complex cases.
+- Multiple harms may be equally important.
+- Challenge process could delay urgent remedies.
+- Lead system may lack capacity even if it has formal jurisdiction.
 
 ## Abuse Scenarios
 
-TBD
+- AI benefits denial is routed only to Technology to avoid Rights review.
+- Emergency order is routed only to Resilience to avoid courts.
+- Procurement corruption is routed only to agency administration to avoid Integrity.
+- Election technology failure creates conflict between Democratic, Technology, and Rights systems.
 
 ## Complexity Cost
 
-TBD
+Moderate. Jurisdictional review adds process, but it prevents evasion.
 
 ## v0.3 Recommendations
 
-TBD
+- Add emergency provisional lead assignment where urgent harm exists.
+- Allow joint review panels for genuinely equal multi-system harms.
+- Require lead assignment decisions to be fast, public, and appealable.
+- Cross-reference One-Door Filing so citizens are not punished for misrouting.
 
 ---
 
@@ -263,27 +361,40 @@ TBD
 
 ## Problem Addressed
 
-TBD
+v0.1’s five-system architecture risked public confusion. v0.2 adds plain-language jurisdiction maps.
 
 ## Strengths
 
-TBD
+- Directly improves usability.
+- Helps citizens understand where to file claims, appeals, complaints, and records requests.
+- Supports the Public Constitutional Interface.
+- Reduces bureaucratic evasion and misdirection.
 
 ## Residual Vulnerabilities
 
-TBD
+- Maps can become stale, overly general, or hard to navigate.
+- Agencies may publish maps but still route people poorly.
+- Complex disputes may not fit clean categories.
+- Non-digital access must be preserved.
 
 ## Abuse Scenarios
 
-TBD
+- Public interface sends citizens through circular referrals.
+- Jurisdiction maps omit contractor or algorithmic pathways.
+- Local offices use outdated maps after system changes.
+- Low-tech citizens cannot access map-based remedies.
 
 ## Complexity Cost
 
-TBD
+Low to moderate. Maintaining accurate maps is a real burden but essential.
 
 ## v0.3 Recommendations
 
-TBD
+- Require jurisdiction maps to be audited for accuracy and usability.
+- Require non-digital access equivalents.
+- Add “wrong-door transfer” protections.
+- Require maps to identify accountable offices, not just systems.
+- Add periodic review after institutional changes.
 
 ---
 
