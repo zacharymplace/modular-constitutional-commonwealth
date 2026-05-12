@@ -328,35 +328,52 @@ Moderate to high. The rights/accountability model is strong, but implementation 
 
 ## What Works
 
-TBD
+- The electoral and party-governance cluster is strong and coherent.
+- Schedule B handles electoral mechanics, while Schedule C handles party power, common control, coalitions, funding, debate access, and party compliance.
+- The split between electoral mechanics and party governance is logical.
+- The two-vote mixed-member proportional design is clear.
+- The package properly protects local representation, proportional correction, emergent parties, opposition rights, and coalition transparency.
+- Delayed self-dealing and election/power-rule safeguards are appropriately tied to Schedule O.
 
 ## Potential Conflicts
 
-TBD
+- Schedule B and Schedule C overlap on public funding, debate access, party thresholds, regional parties, coalition formation, and party role assignment.
+- This overlap is manageable but needs a crosswalk so future edits do not diverge.
+- Schedule B handles electoral thresholds while Schedule C handles party-role thresholds; readers may need guidance on which controls.
+- Coalition transparency appears in both schedules.
 
-## Duplicatoins
+## Duplications
 
-
-
-
-
-TBD
+- Public Party Status Ledger appears in both Schedule B and Schedule C.
+- Emergent Party Escalator appears in both Schedule B and Schedule C.
+- Public funding appears in both Schedule B and Schedule C.
+- Regional parties appear in both Schedule B and Schedule C.
+- Coalition side agreement disclosure appears in both Schedule B and Schedule C.
 
 ## Missing Items
 
-TBD
+- A table distinguishing electoral thresholds from party-role thresholds.
+- A clear statement that Schedule B controls vote/seat mechanics while Schedule C controls party-role privileges.
+- A combined party/election quick-reference table for public readers.
+- A dispute timeline for coalition formation and party-status appeals.
 
 ## Implementation Risk
 
-TBD
+Moderate. The design is strong, but implementation requires competent election administration, public education, legal review, and fast party-status dispute resolution.
 
 ## Recommended Fixes
 
-TBD
+- Create an electoral-party crosswalk table.
+- Add control language:
+  - Schedule B controls electoral mechanics.
+  - Schedule C controls party governance and public privileges.
+  - Schedule O controls amendment process for election and power rules.
+- Add coalition formation and party-status appeal timelines.
+- Add a public “How government is formed” explainer.
 
 ---
 
-# Test Area 8 - Stewardship and Integrity Cluster
+# Test Area 8 — Stewardship and Integrity Cluster
 
 ## Files Reviewed
 
@@ -367,64 +384,102 @@ TBD
 
 ## What Works
 
+- Schedule D gives stewardship appointment architecture real procedural depth.
+- Stewardship institutions are protected from single-source capture but remain bounded by anti-shadow-government rules.
+- Schedule M complements Schedule D by defining public service integrity, conflicts, beneficial ownership, Public Trust License, revolving door, gifts, and contractor capture.
+- Schedule I reinforces stewardship budget protection.
+- The cluster properly balances independence, competence, public accountability, and removal for cause.
+
 ## Potential Conflicts
 
-TBD
+- Schedule D and Schedule M both address conflicts, cooling-off rules, disclosures, and public trust standards.
+- Public Trust License rules in Schedule M may overlap with stewardship qualification requirements in Schedule D.
+- Stewardship budget sufficiency appears in Schedule D and Schedule I.
+- Integrity enforcement may overlap with stewardship performance review.
 
 ## Duplications
 
-TBD
+- Conflict disclosure appears in both Schedule D and Schedule M.
+- Cooling-off rules appear in both schedules.
+- Public accountability of stewardship bodies overlaps with Schedule F.
+- Budget sufficiency appears in Schedule D and Schedule I.
 
 ## Missing Items
 
-TBD
+- A clean distinction between:
+  - stewardship appointment qualification;
+  - public service ethics compliance;
+  - Public Trust License eligibility;
+  - integrity enforcement.
+- A single stewardship body lifecycle diagram: nomination, qualification, confirmation, service, performance review, removal, post-service restrictions.
+- Default acting appointment maximum duration.
 
 ## Implementation Risk
 
-TBD
+Moderate to high. The appointment framework is strong but administratively complex. It requires well-designed qualification panels, citizen panels, conflict review, public files, and deadlock resolution.
 
 ## Recommended Fixes
 
-TBD
+- Create a stewardship appointment lifecycle table.
+- Add explicit cross-reference language: Schedule D controls stewardship appointment mechanics; Schedule M controls general public service ethics and anti-capture rules.
+- Add default acting appointment maximum duration.
+- Add a public-facing “What stewardship bodies can and cannot do” guide.
 
 ---
 
-# Test Area 9 - Courts and Remedies Cluster
+# Test Area 9 — Courts and Remedies Cluster
 
 ## Files Reviewed
 
-- `core_contitution.md`
+- `core_constitution.md`
 - `schedule_e_court_jurisdiction.md`
 - relevant parts of `schedule_a_definitions_and_tests.md`
 - relevant parts of `schedule_j_emergency_powers.md`
 
 ## What Works
 
-TBD
+- Schedule E successfully operationalizes the Rights and Justice System.
+- The court structure is coherent: Constitutional Court, High Court, Administrative Courts, Fast Rights Tribunal, Election and Party Court, Technology Review Tribunal.
+- One-Door Filing and Wrong-Door Transfer are essential usability protections.
+- Primary Harm Rule helps route disputes.
+- Remedial Hierarchy guards against judicial overreach.
+- Court Order Enforcement and Court Compliance Dashboard give rights real force.
 
 ## Potential Conflicts
 
-TBD
+- Schedule E overlaps with Schedule A on fast rights and Kernel review.
+- Emergency review appears in both Schedule E and Schedule J.
+- Technology Review Tribunal overlaps with Schedule G.
+- Election and Party Court overlaps with Schedules B and C.
 
 ## Duplications
 
-TBD
+- Fast Rights Standard appears in Schedule A and Schedule E.
+- Emergency Review Clock appears in Schedule E and Schedule J.
+- Public routing concepts appear in Schedule A, E, F, and N.
+- Technology-related jurisdiction appears in Schedule E and Schedule G.
 
 ## Missing Items
 
-TBD
+- Exact urgent review timelines.
+- A visual court routing chart.
+- A legal aid/access-to-justice operational standard.
+- A single list of which court hears which claim.
 
 ## Implementation Risk
 
-TBD
+Moderate. The structure is strong but will require judicial staffing, public filing guidance, legal aid, technical experts, and fast transfer mechanisms.
 
 ## Recommended Fixes
 
-TBD
+- Create a court routing table or appendix.
+- Add default urgent review timelines by claim type.
+- Populate Rights and Justice System Charter next after package pressure test.
+- Create a public “where do I file?” guide.
 
 ---
 
-# Test Area 10 - Technology and Ledger Cluster
+# Test Area 10 — Technology and Ledger Cluster
 
 ## Files Reviewed
 
@@ -435,31 +490,49 @@ TBD
 
 ## What Works
 
-TBD
+- The technology cluster is one of the strongest parts of the package.
+- Schedule G clearly defines technology scope, sovereignty limits, risk tiers, registry, system cards, no-black-box rules, human review, metrics, self-learning gates, procurement, emergency deployment, surveillance, data governance, cybersecurity, appeals, and public reporting.
+- Schedule H correctly treats ledgers as verification infrastructure, not governing authority.
+- Ledger limits are strong: no default blockchain voting, no unstoppable public-law smart contracts, no legal truth supremacy by chain.
+- Schedule F connects technology to public accountability and public interface disclosure.
 
 ## Potential Conflicts
 
-TBD
+- Schedule G and Schedule H overlap when ledger systems involve public algorithms or public records.
+- Schedule G and Schedule J overlap on emergency technology.
+- Schedule G and Schedule K overlap on surveillance and biometric systems.
+- Schedule F and Schedule G overlap on technology disclosure fields.
 
 ## Duplications
 
-TBD
+- Material Influence appears in Schedule A and Schedule G.
+- Emergency technology appears in Schedule G and Schedule J.
+- Public algorithm registry appears in Schedule G and Schedule H.
+- Technology disclosure appears in Schedule F and Schedule G.
+- Surveillance appears in Schedule G and Schedule K.
 
 ## Missing Items
 
-TBD
+- A controlling rule for technology/ledger overlap.
+- Concrete public system-card template.
+- Concrete audit-access contract clause.
+- Concrete emergency technology expiration default.
+- A technology procurement implementation code.
 
 ## Implementation Risk
 
-TBD
+High. The architecture is strong, but implementation requires sophisticated technical audit capacity, procurement reform, cybersecurity maturity, public records systems, and appeal processes.
 
 ## Recommended Fixes
 
-TBD
+- Add control language: Schedule G governs public technology generally; Schedule H governs ledger-specific verification infrastructure.
+- Populate `implementation-codes/algorithmic_audit_code.md`.
+- Populate `implementation-codes/procurement_code.md`.
+- Create standard system-card and audit-access templates.
 
 ---
 
-# Test Area 11 - Fiscal and Procurement Cluster
+# Test Area 11 — Fiscal and Procurement Cluster
 
 ## Files Reviewed
 
@@ -470,31 +543,48 @@ TBD
 
 ## What Works
 
-TBD
+- Schedule I is comprehensive and coherent.
+- It preserves the core doctrine that fiscal governance is truth machinery, not austerity machinery.
+- Public Balance Sheet, Independent Fiscal Score, Fiscal Model Governance, Fiscal Warning Bands, Cost of Action/Inaction, Infrastructure Maintenance Ledger, Tax Expenditure Ledger, Procurement Ledger, Emergency Spending Ledger, and Local Fiscal Distress Register are strong.
+- Procurement transparency is reinforced by conflict, beneficial ownership, and anti-capture rules in Schedule M.
+- Schedule F provides interface and dashboard logic.
 
 ## Potential Conflicts
 
-TBD
+- Procurement appears in Schedule I and Schedule M, and will likely appear in Procurement Code.
+- Emergency spending appears in Schedule I and Schedule J.
+- Fiscal dashboards appear in Schedule I and Schedule F.
+- Stewardship funding appears in Schedule I and Schedule D.
 
 ## Duplications
 
-TBD
+- Procurement ledger concepts overlap with public accountability records.
+- Beneficial ownership appears in Schedules I and M.
+- Emergency spending appears in Schedules I and J.
+- Fiscal interface appears in Schedules I and F.
 
 ## Missing Items
 
-TBD
+- Concrete fiscal warning-band thresholds.
+- Fiscal dashboard templates.
+- Procurement code with operational rules.
+- Stewardship funding dispute forum.
+- Local fiscal distress scoring parameters.
 
 ## Implementation Risk
 
-TBD
+High but manageable. The fiscal constitution demands strong data, forecasting, audit, procurement, and public dashboard capacity.
 
 ## Recommended Fixes
 
-TBD
+- Populate `implementation-codes/fiscal_reporting_code.md`.
+- Populate `implementation-codes/procurement_code.md`.
+- Add fiscal warning-band parameter table later.
+- Add stewardship funding dispute forum to a future revision or implementation statute.
 
 ---
 
-# Test Area 12 - Emergency, Security, and Information Cluster
+# Test Area 12 — Emergency, Security, and Information Cluster
 
 ## Files Reviewed
 
@@ -505,29 +595,48 @@ TBD
 
 ## What Works
 
+- The emergency/security/information cluster is strong and appropriately rights-protective.
+- Schedule J has activation, renewal, emergency review, non-suspendable principles, emergency council, emergency spending, emergency technology, classified actions, normalcy restoration, dashboard, and post-emergency audit.
+- Schedule K prevents partisan capture of coercive power and includes lawful command, election-period neutrality, domestic deployment, surveillance, classified whistleblowers, and security transparency.
+- Schedule L protects speech while exposing manipulation.
+- The cluster strongly resists authoritarian emergency normalization.
+
 ## Potential Conflicts
 
-TBD
+- Emergency surveillance appears in Schedule J and Schedule K.
+- Emergency technology appears in Schedule J and Schedule G.
+- Foreign-linked communication in Schedule L may overlap with security/intelligence concerns in Schedule K.
+- Classified oversight appears in Schedules J and K.
 
 ## Duplications
 
-TBD
+- Classified whistleblower concepts appear in Schedule K and will overlap with Integrity System Charter.
+- Surveillance appears in Schedule G, J, and K.
+- Election-period issues appear in Schedules B, C, J, K, and L.
+- Public emergency dashboards appear in Schedule J and F.
 
 ## Missing Items
 
-TBD
+- Exact emergency duration defaults.
+- Classified oversight body composition.
+- Election-period information-integrity fast review timelines.
+- Domestic deployment renewal limits.
+- Emergency preparedness implementation code.
 
 ## Implementation Risk
 
-TBD
+Moderate to high. The rules are good, but emergency systems must be built before crisis. Otherwise the safeguards may be too slow in practice.
 
 ## Recommended Fixes
 
-TBD
+- Add emergency preparedness code or checklist.
+- Add default emergency duration / renewal parameter table.
+- Add classified oversight composition rules.
+- Add election-period fast review timeline for information-integrity disputes.
 
 ---
 
-# Test Area 13 - Transition Cluster
+# Test Area 13 — Transition Cluster
 
 ## Files Reviewed
 
@@ -537,31 +646,49 @@ TBD
 
 ## What Works
 
-TBD
+- Schedule N is thorough and practical.
+- It includes transition doctrine, minimum viable constitutional package, transition phases, readiness certification, capacity gates, public transition ledger, anti-sabotage, transition authority limits, legacy continuity, technology freeze/register, first election stabilization, fiscal baseline, court capacity staging, civic translation, no-gap rules, state/local node alignment, success metrics, and review cycles.
+- The transition is capacity-gated rather than ambition-driven.
+- The package correctly protects against incumbent sabotage and institutional collapse.
 
 ## Potential Conflicts
 
-TBD
+- Transition rules overlap with almost every schedule.
+- Technology freeze overlaps with Schedule G.
+- Fiscal baseline overlaps with Schedule I.
+- Court capacity staging overlaps with Schedule E.
+- First election stabilization overlaps with Schedule B.
+- Public Transition Ledger overlaps with Schedule F.
 
 ## Duplications
 
-TBD
+- Capacity Gates appear in core/federalism, Schedule A concepts, and Schedule N.
+- No-gap rules repeat public accountability and rights protections.
+- Transition metrics overlap with schedule review metrics across the package.
 
 ## Missing Items
 
-TBD
+- Named Transition Readiness Certifier.
+- Default transition milestone timeline.
+- Legacy handover enforcement detail.
+- Public transition help desk standard.
+- Local outreach requirements.
 
 ## Implementation Risk
 
-TBD
+High. Transition is the riskiest portion of the entire architecture. The schedule is strong, but execution requires careful sequencing, funding, public education, and political legitimacy.
 
 ## Recommended Fixes
 
-TBD
+- Populate `implementation-codes/transition_implementation_code.md`.
+- Create transition milestone table.
+- Add readiness certifier appointment method.
+- Add local transition outreach and help-desk standards.
+- Add legacy handover sanctions table.
 
 ---
 
-# Test Area 14 - Amendment and Refounding
+# Test Area 14 — Amendment and Refounding
 
 ## Files Reviewed
 
@@ -571,27 +698,46 @@ TBD
 
 ## What Works
 
-TBD
+- Schedule O is strong and coherent.
+- It properly separates ordinary policy, major statutory architecture, election/power rules, framework amendments, and Kernel refounding.
+- Delayed Self-Dealing is one of the most important safeguards in the package.
+- Amendment Classification Review helps prevent category evasion.
+- Public Amendment Guides and Amendment Integrity Disclosures improve public legitimacy.
+- Emergency Amendment Limits protect against crisis manipulation.
+- Refounding Procedure is more defined than prior versions.
 
 ## Potential Conflicts
 
-TBD
+- Every schedule has its own amendment clause, but not all use identical language.
+- Schedule O says schedule amendments follow the process applicable to subject matter. Some schedules say major statutory architecture or framework amendment process.
+- Technical schedule updates may need a clearer low-risk update path.
 
 ## Duplications
 
-TBD
+- Kernel protection appears in Schedule A, E, J, and O.
+- Election/power rule protections appear in Schedules B, C, and O.
+- Emergency amendment limits appear in Schedule J and O.
+- Public amendment records overlap with Schedule F.
 
 ## Missing Items
 
-TBD
+- Exact amendment thresholds.
+- Public challenge period length.
+- Independent public guide preparation body.
+- Default schedule technical-update process.
+- Refounding convention design details.
 
 ## Implementation Risk
 
-TBD
+Moderate. The framework is strong, but exact thresholds and timelines are necessary before real use.
 
 ## Recommended Fixes
 
-TBD
+- Add amendment threshold parameter table.
+- Add a schedule-amendment hierarchy table.
+- Add technical update rule for non-substantive schedule changes.
+- Add public amendment guide template.
+- Add refounding process timeline and civic participation requirements.
 
 ---
 
@@ -609,7 +755,7 @@ TBD
 
 TBD
 
-## 4. Are Any Core Principles Missing from the Core Consitution?
+## 4. Are Any Core Principles Missing from the Core Constitution?
 
 TBD
 
