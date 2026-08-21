@@ -1,0 +1,75 @@
+{
+  "schema_version": "systems-builder-lifecycle-v1",
+  "system_id": "modular-constitutional-commonwealth",
+  "display_name": "Modular Constitutional Commonwealth",
+  "phase": "build",
+  "condition": "active",
+  "source": {
+    "repository": "zacharymplace/modular-constitutional-commonwealth",
+    "path": ".",
+    "branch": "main",
+    "commit": "1e82c55"
+  },
+  "evidence": [
+    {
+      "kind": "package-state",
+      "reference": "constitutional-draft/formal_constitution_v0.4/",
+      "result": "Core Constitution, Schedules A-O, five system charters, package index, cross-reference matrix, and implementation-code scaffolds are present."
+    },
+    {
+      "kind": "pressure-test",
+      "reference": "pressure-tests/formal_constitution_v0.4_package_pressure_test.md",
+      "result": "v0.4 package pressure test exists and identifies stabilization and implementation concerns."
+    },
+    {
+      "kind": "implementation-progress",
+      "reference": "constitutional-draft/formal_constitution_v0.4/implementation-codes/public_interface_code.md",
+      "result": "Public Interface Code populated."
+    },
+    {
+      "kind": "implementation-progress",
+      "reference": "constitutional-draft/formal_constitution_v0.4/implementation-codes/procurement_code.md",
+      "result": "Procurement Code populated."
+    },
+    {
+      "kind": "remaining-build-scope",
+      "reference": "constitutional-draft/formal_constitution_v0.4/implementation-codes/",
+      "result": "Algorithmic Audit Code, Fiscal Reporting Code, and Transition Implementation Code remain scaffold-only."
+    },
+    {
+      "kind": "documentation-drift",
+      "reference": "reports/v04_package_audit.md",
+      "result": "Package audit predates the two populated implementation codes and should be refreshed after further implementation-code progress."
+    }
+  ],
+  "next_action": {
+    "description": "Populate the Formal Constitution v0.4 Algorithmic Audit Code from the controlling technology-governance, public-accountability, rights-and-justice, integrity, procurement, and related constitutional sources; preserve the existing authority hierarchy and human-review boundaries, then reconcile its cross-references before moving to the remaining Fiscal Reporting and Transition implementation codes."
+  },
+  "blockers": [],
+  "progress": {
+    "core_constitution": "complete_draft",
+    "schedules_a_through_o": "complete_draft",
+    "system_charters": "populated",
+    "package_pressure_test": "present",
+    "public_interface_code": "populated",
+    "procurement_code": "populated",
+    "algorithmic_audit_code": "scaffold",
+    "fiscal_reporting_code": "scaffold",
+    "transition_implementation_code": "scaffold",
+    "package_audit": "stale_relative_to_current_tip"
+  },
+  "capabilities": [
+    "constitutional-architecture",
+    "formal-constitution-drafting",
+    "constitutional-schedules",
+    "system-charters",
+    "constitutional-pressure-testing",
+    "cross-reference-governance",
+    "public-accountability-design",
+    "technology-governance",
+    "rights-and-justice-design",
+    "integrity-and-anti-capture-design",
+    "resilience-and-transition-design",
+    "implementation-code-drafting"
+  ]
+}
