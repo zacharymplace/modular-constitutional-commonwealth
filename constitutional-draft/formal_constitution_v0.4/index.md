@@ -137,7 +137,7 @@ Purpose:
 | --- | --- | --- |
 | `implementation-codes/public_interface_code.md` | Scaffold | Administrative and technical standards for public interface |
 | `implementation-codes/procurement_code.md` | Scaffold | Procurement rules, beneficial ownership, vendor audit access |
-| `implementation-codes/algorithmic_audit_code.md` | Scaffold | Model cards, system cards, risk tiers, audit and rollback |
+| `implementation-codes/algorithmic_audit_code.md` | Populated | Algorithmic audit, meaningful human review, metrics, drift, rollback, appeals, procurement integration, and audit-the-auditors |
 | `implementatio-codes/fiscal_reporting_code.md` | Scaffold | Fiscal dashboards, model disclosure, reporting formats |
 | `implementation-codes/transition_implementation_code.md` | Scaffold | Phase checklists, readiness certification, legacy handover |
 
