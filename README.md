@@ -28,4 +28,7 @@ The Commonwealth is organized around:
 
 - Master Architecture v1.0: drafted
 - Public Manifesto v0.1: drafted
-- Formal Constitutional Draft v0.1: pending
+- Formal Constitution v0.4: populated draft package (core, Schedules A-O, and five system charters)
+- Public Interface, Procurement, and Algorithmic Audit Codes: populated drafts
+- Fiscal Reporting and Transition Implementation Codes: scaffold-only; no implementation lane authorized
+- Package evidence: see `reports/v04_package_audit.md`; structural checks are not legal or operational validation

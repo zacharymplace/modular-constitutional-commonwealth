@@ -22,4 +22,14 @@ Core rule:
 
 ## Status
 
-Scaffolded. Not yet populated.
+Populated draft package: core, Schedules A-O, five system charters, and three
+implementation codes (Public Interface, Procurement, Algorithmic Audit).
+Fiscal Reporting and Transition remain scaffold-only and are not authorized for
+implementation by this evidence-reconciliation cycle.
+
+The authority hierarchy is unchanged: core principles, controlling schedules,
+system charters, then subordinate implementation codes. Audit does not authorize
+deployment or create sovereign powers. This civic-theoretical draft is not a
+legal instrument or validated operating governance system.
+
+See `reports/v04_package_audit.md` for scoped package evidence and remaining work.
