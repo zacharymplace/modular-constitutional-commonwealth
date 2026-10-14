@@ -93,7 +93,7 @@ Purpose:
 
 | File | Status | Purpose |
 | --- | --- | --- |
-| `core_constituion.md` | Drafted | Shorter core constitutional context; technical detail moved to schedules |
+| `core_constitution.md` | Drafted | Shorter core constitutional context; technical detail moved to schedules |
 
 ---
 
@@ -123,11 +123,11 @@ Purpose:
 
 | File | Status | Purpose |
 | --- | --- | --- |
-| `system-charters/democratic_system_charter.md` | Scaffold | Operational charter for elections, parties, participation |
-| `system-charters/rights_and_justice_system_charter.md` | Scaffold | Operational charter for courts and rights enforcement |
-| `system-charters/integrity_system_charter.md` | Scaffold | Operational charter for anti-corruption and audit systems |
-| `system-charters/technology_system_charter.md` | Scaffold | Operational charter for public technology and AI governance |
-| `system-charters/resilience_system_charter.md` | Scaffold | Operational charter for emergency, fiscal, and future-risk systems |
+| `system-charters/democratic_system_charter.md` | Populated draft | Operational charter for elections, parties, participation |
+| `system-charters/rights_and_justice_system_charter.md` | Populated draft | Operational charter for courts and rights enforcement |
+| `system-charters/integrity_system_charter.md` | Populated draft | Operational charter for anti-corruption and audit systems |
+| `system-charters/technology_system_charter.md` | Populated draft | Operational charter for public technology and AI governance |
+| `system-charters/resilience_system_charter.md` | Populated draft | Operational charter for emergency, fiscal, and future-risk systems |
 
 ---
 
@@ -135,10 +135,10 @@ Purpose:
 
 | File | Status | Purpose |
 | --- | --- | --- |
-| `implementation-codes/public_interface_code.md` | Scaffold | Administrative and technical standards for public interface |
-| `implementation-codes/procurement_code.md` | Scaffold | Procurement rules, beneficial ownership, vendor audit access |
+| `implementation-codes/public_interface_code.md` | Populated draft | Administrative and technical standards for public interface |
+| `implementation-codes/procurement_code.md` | Populated draft | Procurement rules, beneficial ownership, vendor audit access |
 | `implementation-codes/algorithmic_audit_code.md` | Populated | Algorithmic audit, meaningful human review, metrics, drift, rollback, appeals, procurement integration, and audit-the-auditors |
-| `implementatio-codes/fiscal_reporting_code.md` | Scaffold | Fiscal dashboards, model disclosure, reporting formats |
+| `implementation-codes/fiscal_reporting_code.md` | Scaffold | Fiscal dashboards, model disclosure, reporting formats |
 | `implementation-codes/transition_implementation_code.md` | Scaffold | Phase checklists, readiness certification, legacy handover |
 
 ---
@@ -161,53 +161,22 @@ Purpose:
 | --- | --- |
 | Core Constitution | Complete draft |
 | Schedules A-O | Complete draft |
-| System Charters | Scaffolded |
-| Implementation Codes | Scaffolded |
+| System Charters | Five populated drafts |
+| Implementation Codes | Three populated drafts; Fiscal Reporting and Transition scaffolds |
 | Package Index | Drafted |
 
 ---
 
 # Next Recommended Work
 
-## Option 1 - Pressure Test v0.4 Package
+Preserve the existing authority hierarchy and populated draft texts. Use
+`scripts/audit-v04-package.py --check` to verify the package evidence after
+summary changes, and assess the existing package pressure test before claiming
+substantive consistency. The pressure test and all five charters already exist.
 
-Create:
-
-```txt
-pressure-tests/formal_constitution_v0.4_package_pressure_test.md
-```
-
-Focus:
-
-- consistency between core and schedules;
-- duplicate or conflicting definitions;
-- schedule cross-reference quality;
-- public readability;
-- implementation feasability.
-
-## Option 2 - Populate System Charters
-
-Start with:
-
-```txt
-system-charters/democratic_system_charter.md
-```
-
-Purpose:
-
-- operationalize the Democratic System across elections, parties, public ledgers, citizen participation, and coalition rules.
-
-## Option 3 - Populate Implementation Codes
-
-Start with:
-
-```txt
-implementation-codes/public_interface_code.md
-```
-
-Purpose:
-
-- convert public accountability and interface principles into practical implementation standards.
+Fiscal Reporting and Transition remain scaffold-only. No new implementation-code
+lane, legal adoption, deployment, or operational power is authorized by this
+summary reconciliation. Further drafting requires a separate bounded decision.
 
 ---
 
